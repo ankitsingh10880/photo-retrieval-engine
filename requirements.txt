@@ -1,0 +1,7 @@
+streamlit>=1.40
+pandas
+plotly
+anthropic
+scikit-learn
+google-play-scraper
+beautifulsoup4
