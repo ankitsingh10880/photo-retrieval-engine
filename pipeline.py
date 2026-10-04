@@ -265,7 +265,12 @@ def ask(df: pd.DataFrame, question: str, client, k=25) -> str:
         "failure_stage_counts": r["failure_stage"].value_counts().to_dict(),
         "channel_counts": r["channel"].value_counts().to_dict(),
         "photo_type_counts": r["photo_type"].value_counts().to_dict(),
+        "cues_retained_counts": r["cues_retained"].explode().value_counts().to_dict(),
     }
+    if "stage0_reason" in r:
+        reasons = r["stage0_reason"].fillna("").astype(str)
+        counts["why_people_did_not_search (second-pass coding of stage-0 items)"] = (
+            reasons[reasons.ne("")].value_counts().to_dict())
     evidence = "\n".join(
         f"[{t.id}] ({t.source}; type={t.photo_type}; stage={t.failure_stage}; "
         f"retained={','.join(t.cues_retained)}) {t.text[:600]}"

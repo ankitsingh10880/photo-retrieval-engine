@@ -67,7 +67,7 @@ if not df.empty:
     c2.metric("About finding a photo", f"{len(ret):,}")
     c3.metric("Sources", df["source"].str.replace(r"_(in|us)$", "", regex=True).nunique())
     top = ret["failure_stage"].value_counts().idxmax() if not ret.empty else "—"
-    c4.metric("Most common break point", pl.STAGE_LABELS.get(top, top))
+    c4.metric("Top break point", pl.STAGE_LABELS.get(top, top).split(" · ")[-1])
 
 tabs = st.tabs(["How it works", "Run the engine", "Findings", "Ask the evidence", "Explorer & method"])
 
@@ -105,10 +105,7 @@ Each item is assigned the *earliest* stage where retrieval broke.
 # ------------------------------------------------------------- 2. run live
 with tabs[1]:
     st.subheader("Run the full pipeline on fresh data")
-    st.caption(f"Live runs are capped at {LIVE_CAP} items. Results merge into Findings and Ask for this session."
-               f" Runs left this session: {max(runs_left, 0)} of {MAX_LIVE_RUNS}.")
-    if runs_left <= 0:
-        st.caption("Demo limit reached for this session to keep API costs bounded.")
+    runs_slot = st.empty()
     if client is None:
         st.warning("Live labelling is unavailable: no API key configured on this deployment.")
     src = st.radio("Source", ["Play Store (live pull)", "Upload CSV", "Paste text (Reddit, forums, comments)"],
@@ -151,6 +148,11 @@ with tabs[1]:
         if not kept.empty:
             st.dataframe(kept[["id", "photo_type", "cues_retained", "channel", "failure_stage", "evidence"]],
                          width="stretch", hide_index=True)
+
+    used = st.session_state["live_runs"]
+    runs_slot.caption(f"Live runs are capped at {LIVE_CAP} items. Results merge into Findings and Ask for this session. "
+                      f"Runs left this session: {max(MAX_LIVE_RUNS - used, 0)} of {MAX_LIVE_RUNS}."
+                      + (" Demo limit reached for this session to keep API costs bounded." if used >= MAX_LIVE_RUNS else ""))
 
 # ------------------------------------------------------------- 3. findings
 with tabs[2]:
@@ -244,12 +246,15 @@ with tabs[3]:
                 "What workarounds do people use when they can't find a photo?"]
     pick = st.selectbox("Example questions", ["—"] + examples)
     q = st.text_input("Your question", value="" if pick == "—" else pick)
-    st.caption(f"Questions left this session: {max(qs_left, 0)} of {MAX_QUESTIONS}."
-               + (" Demo limit reached for this session to keep API costs bounded." if qs_left <= 0 else ""))
+    qs_slot = st.empty()
     if st.button("Ask", type="primary", disabled=client is None or not q or qs_left <= 0):
         st.session_state["questions"] += 1
         with st.spinner("Retrieving and reading evidence…"):
             st.markdown(pl.ask(df, q, client))
+
+    asked = st.session_state["questions"]
+    qs_slot.caption(f"Questions left this session: {max(MAX_QUESTIONS - asked, 0)} of {MAX_QUESTIONS}."
+                    + (" Demo limit reached for this session to keep API costs bounded." if asked >= MAX_QUESTIONS else ""))
 
 # ------------------------------------------------------------- 5. explorer
 with tabs[4]:
