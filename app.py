@@ -237,10 +237,11 @@ with tabs[2]:
 with tabs[3]:
     st.subheader("Ask the evidence")
     st.caption("Answers use only the labelled items, and cite them by id. Check any id in Explorer.")
-    examples = ["What kinds of old photos do users struggle to retrieve?",
+    examples = ["Why do people scroll instead of searching?",
                 "What do people remember about a photo, and what have they forgotten?",
+                "What clues do users give that search fails to understand?",
                 "How do users phrase searches when their memory is incomplete?",
-                "Why do people scroll instead of searching?"]
+                "What workarounds do people use when they can't find a photo?"]
     pick = st.selectbox("Example questions", ["—"] + examples)
     q = st.text_input("Your question", value="" if pick == "—" else pick)
     st.caption(f"Questions left this session: {max(qs_left, 0)} of {MAX_QUESTIONS}."

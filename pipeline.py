@@ -197,11 +197,14 @@ def label(df: pd.DataFrame, client, workers=4, progress=None) -> pd.DataFrame:
     for col, allowed in [("cues_retained", CUES_RETAINED), ("cues_forgotten", CUES_FORGOTTEN)]:
         merged[col] = merged[col].apply(lambda v, a=allowed: [x for x in v if isinstance(x, str) and x in a])
     merged["severity"] = pd.to_numeric(merged["severity"], errors="coerce").fillna(0)
-    merged["is_retrieval"] = merged["is_retrieval"].fillna(False).astype(bool)
+    # explicit conversion (no pandas downcasting); a string "true" from the model still counts as True
+    merged["is_retrieval"] = merged["is_retrieval"].map(
+        lambda v: v is True or (isinstance(v, str) and v.strip().lower() == "true"))
     if "label_error" not in merged:
         merged["label_error"] = False
     # ids the model skipped also count as errors so they get retried
-    merged["label_error"] = merged["label_error"].fillna(merged["failure_stage"].eq("")).astype(bool)
+    # failed batches are flagged True; items the model silently skipped have no failure_stage
+    merged["label_error"] = merged["label_error"].map(lambda v: v is True) | merged["failure_stage"].eq("")
     return merged
 
 
