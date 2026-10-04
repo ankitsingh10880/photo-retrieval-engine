@@ -138,6 +138,11 @@ def keyword_filter(df: pd.DataFrame, min_len=40) -> pd.DataFrame:
 
 
 # ---------------------------------------------------------------- label
+def response_text(msg) -> str:
+    """Join the text blocks of a response; some models put a non-text block (e.g. thinking) first."""
+    return "".join(getattr(b, "text", "") for b in msg.content if getattr(b, "type", "text") == "text").strip()
+
+
 def _parse_json_array(raw: str):
     raw = raw.strip()
     raw = re.sub(r"^```(?:json)?|```$", "", raw, flags=re.M).strip()
@@ -152,7 +157,7 @@ def _label_batch(client, batch: pd.DataFrame, retries=3) -> list[dict]:
             msg = client.messages.create(
                 model=LABEL_MODEL, max_tokens=4000, system=LABEL_PROMPT,
                 messages=[{"role": "user", "content": items}])
-            return _parse_json_array(msg.content[0].text)
+            return _parse_json_array(response_text(msg))
         except Exception:
             if attempt == retries - 1:
                 return [{"id": i, "failure_stage": "unclear", "is_retrieval": None,
@@ -263,7 +268,7 @@ def ask(df: pd.DataFrame, question: str, client, k=25) -> str:
         f"retained={','.join(t.cues_retained)}) {t.text[:600]}"
         for t in top.itertuples())
     msg = client.messages.create(
-        model=SYNTH_MODEL, max_tokens=900,
+        model=SYNTH_MODEL, max_tokens=2000,
         system=("You answer product-research questions using ONLY the evidence "
                 "given. Lead with the answer, quantify with the corpus counts "
                 "where relevant, cite item ids in square brackets after each "
@@ -271,4 +276,5 @@ def ask(df: pd.DataFrame, question: str, client, k=25) -> str:
         messages=[{"role": "user", "content":
                    f"Corpus counts: {json.dumps(counts)}\n\nRetrieved evidence:\n"
                    f"{evidence}\n\nQuestion: {question}"}])
-    return msg.content[0].text
+    answer = response_text(msg)
+    return answer or "The model returned no text for this question. Please try rephrasing it."
