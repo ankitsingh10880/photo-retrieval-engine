@@ -14,10 +14,9 @@ vaguely remembered photos breaks, instead of summarising sentiment.
 4. **Re-check** – every item Haiku marked as retrieval (923) is re-labelled by Claude Sonnet with a stricter prompt and
    10 few-shot examples written outside the gold set (`recheck_relevance.py`) → 458 retrieval items.
    Then `subcode_stage0.py` codes why 'didn't search' items didn't search.
-5. **Second pass** – items where the user didn't search are re-coded for *why*.
-6. **Validate** – a stratified human-labelled sample checks LLM agreement per field.
-7. **Score** – cue × failure-stage matrix; opportunity = share × severity × coverage gap.
-8. **Ask** – questions answered only from retrieved items, with item ids cited (Claude Sonnet).
+5. **Validate** – a stratified human-labelled sample checks LLM agreement per field.
+6. **Score** – cue × failure-stage matrix; opportunity = share × severity × coverage gap.
+7. **Ask** – questions answered only from retrieved items, with item ids cited (Claude Sonnet).
 
 ## Files
 - `app.py` – Streamlit app
