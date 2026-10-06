@@ -4,6 +4,7 @@ Project Nebula — AI-Powered Discovery Engine (single-URL gateway).
 Tabs: How it works · Run the engine (live) · Findings · Ask the evidence · Explorer
 """
 import json
+from datetime import date
 from pathlib import Path
 
 import pandas as pd
@@ -16,9 +17,11 @@ st.set_page_config(page_title="Photo Retrieval Discovery Engine", page_icon="�
 
 DATA = Path(__file__).parent / "data" / "baseline_labelled.jsonl"
 VALIDATION = Path(__file__).parent / "data" / "validation.json"
-LIVE_CAP = 100
-MAX_LIVE_RUNS = 2
+LIVE_CAP = 50
+MAX_LIVE_RUNS = 3
 MAX_QUESTIONS = 10
+GLOBAL_LIVE_PER_DAY = 30  # shared by all visitors of this process
+GLOBAL_ASK_PER_DAY = 60
 SEQ = ["#EEF3FB", "#C6D7F0", "#8FB0E0", "#4F7FC6", "#24519A", "#0F2E63"]  # one hue, light→dark
 BAR = "#24519A"
 
@@ -41,6 +44,20 @@ def get_client():
     return anthropic.Anthropic(api_key=key)
 
 
+@st.cache_resource
+def _usage():
+    return {"day": "", "live": 0, "ask": 0}
+
+
+def usage() -> dict:
+    """Process-wide daily counters, reset on the first call of a new day."""
+    u = _usage()
+    today = date.today().isoformat()
+    if u["day"] != today:
+        u.update(day=today, live=0, ask=0)
+    return u
+
+
 def corpus() -> pd.DataFrame:
     base = load_baseline()
     live = st.session_state.get("live")
@@ -54,6 +71,10 @@ st.session_state.setdefault("live_runs", 0)
 st.session_state.setdefault("questions", 0)
 runs_left = MAX_LIVE_RUNS - st.session_state["live_runs"]
 qs_left = MAX_QUESTIONS - st.session_state["questions"]
+live_left_today = GLOBAL_LIVE_PER_DAY - usage()["live"]
+asks_left_today = GLOBAL_ASK_PER_DAY - usage()["ask"]
+live_blocked = client is None or runs_left <= 0 or live_left_today <= 0
+ask_blocked = client is None or qs_left <= 0 or asks_left_today <= 0
 df = corpus()
 ret = pl.retrieval_only(df) if not df.empty else pd.DataFrame()
 
@@ -67,7 +88,8 @@ if not df.empty:
     c2.metric("About finding a photo", f"{len(ret):,}")
     c3.metric("Source (India + US)", "Play Store reviews")
     top = ret["failure_stage"].value_counts().idxmax() if not ret.empty else "—"
-    c4.metric("Top break point", pl.STAGE_LABELS.get(top, top).split(" · ")[-1])
+    share = f" · {ret['failure_stage'].eq(top).sum() / len(ret):.0%}" if not ret.empty else ""
+    c4.metric("Biggest failure", pl.STAGE_LABELS.get(top, top).split(" · ")[-1] + share)
 
 tabs = st.tabs(["How it works", "Run the engine", "Findings", "Ask the evidence", "Explorer & method"])
 
@@ -95,8 +117,8 @@ Each item is assigned the *earliest* stage where retrieval broke.
     st.subheader("Cost controls on this public demo")
     st.markdown(f"""
 - **Findings, Explorer and this page make no API calls**: they read a dataset labelled once, offline.
-- **Live runs** are capped at **{LIVE_CAP} items per run** and **{MAX_LIVE_RUNS} runs per session**.
-- **Ask the evidence** is capped at **{MAX_QUESTIONS} questions per session**.
+- **Live runs** are capped at **{LIVE_CAP} items per run**, **{MAX_LIVE_RUNS} runs per session** and **{GLOBAL_LIVE_PER_DAY} runs per day across all visitors**.
+- **Ask the evidence** is capped at **{MAX_QUESTIONS} questions per session** and **{GLOBAL_ASK_PER_DAY} questions per day across all visitors**.
 - The offline batch labelling run validates the API key with a 1-token call, shows an estimated cost for confirmation, and checks a 15-item pilot batch against the schema before labelling the rest.
 - The API account is prepaid, so total spend has a hard ceiling.
 """)
@@ -117,7 +139,7 @@ with tabs[1]:
         app_id = a.text_input("App id", "com.google.android.apps.photos")
         country = b.selectbox("Country", ["in", "us", "gb", "au", "ca"])
         n_pull = c.slider("Reviews to pull", 200, 2000, 600, 100)
-        if st.button("Collect, filter and label", type="primary", disabled=client is None or runs_left <= 0):
+        if st.button("Collect, filter and label", type="primary", disabled=live_blocked):
             with st.status("Running pipeline…", expanded=True) as s:
                 st.write("Collecting reviews…")
                 raw = pl.collect_play(app_id, country, n_pull)
@@ -127,15 +149,18 @@ with tabs[1]:
         if f is not None:
             up = pd.read_csv(f)
             col = st.selectbox("Text column", up.columns)
-            if st.button("Filter and label", type="primary", disabled=client is None or runs_left <= 0):
+            if st.button("Filter and label", type="primary", disabled=live_blocked):
                 raw = pl.collect_csv(up, col)
     else:
         blob = st.text_area("Paste posts. Separate items with a blank line or ---", height=220)
-        if st.button("Filter and label", type="primary", disabled=client is None or runs_left <= 0) and blob.strip():
+        if st.button("Filter and label", type="primary", disabled=live_blocked) and blob.strip():
             raw = pl.collect_pasted(blob)
 
+    if raw is not None and usage()["live"] >= GLOBAL_LIVE_PER_DAY:
+        raw = None  # another visitor used the last run since this page loaded
     if raw is not None:
         st.session_state["live_runs"] += 1
+        usage()["live"] += 1
         filt = pl.keyword_filter(raw) if src.startswith(("Play", "Upload")) else raw
         filt = filt.head(LIVE_CAP)
         st.write(f"Keyword filter kept **{len(filt)}** of {len(raw)} items. Labelling…")
@@ -153,7 +178,11 @@ with tabs[1]:
     used = st.session_state["live_runs"]
     runs_slot.caption(f"Live runs are capped at {LIVE_CAP} items. Results merge into Findings and Ask for this session. "
                       f"Runs left this session: {max(MAX_LIVE_RUNS - used, 0)} of {MAX_LIVE_RUNS}."
-                      + (" Demo limit reached for this session to keep API costs bounded." if used >= MAX_LIVE_RUNS else ""))
+                      + (" Demo limit reached for this session to keep API costs bounded." if used >= MAX_LIVE_RUNS else "")
+                      + f" Daily limit across all visitors: {GLOBAL_LIVE_PER_DAY} runs "
+                      f"({max(GLOBAL_LIVE_PER_DAY - usage()['live'], 0)} left today). About $0.01 per run.")
+    if usage()["live"] >= GLOBAL_LIVE_PER_DAY:
+        st.warning("Daily demo limit reached to keep API costs bounded. Try again tomorrow.")
 
 # ------------------------------------------------------------- 3. findings
 with tabs[2]:
@@ -251,14 +280,19 @@ with tabs[3]:
     pick = st.selectbox("Example questions", ["—"] + examples)
     q = st.text_input("Your question", value="" if pick == "—" else pick)
     qs_slot = st.empty()
-    if st.button("Ask", type="primary", disabled=client is None or not q or qs_left <= 0):
+    if st.button("Ask", type="primary", disabled=ask_blocked or not q) and usage()["ask"] < GLOBAL_ASK_PER_DAY:
         st.session_state["questions"] += 1
+        usage()["ask"] += 1
         with st.spinner("Retrieving and reading evidence…"):
             st.markdown(pl.ask(df, q, client))
 
     asked = st.session_state["questions"]
     qs_slot.caption(f"Questions left this session: {max(MAX_QUESTIONS - asked, 0)} of {MAX_QUESTIONS}."
-                    + (" Demo limit reached for this session to keep API costs bounded." if asked >= MAX_QUESTIONS else ""))
+                    + (" Demo limit reached for this session to keep API costs bounded." if asked >= MAX_QUESTIONS else "")
+                    + f" Daily limit across all visitors: {GLOBAL_ASK_PER_DAY} questions "
+                    f"({max(GLOBAL_ASK_PER_DAY - usage()['ask'], 0)} left today).")
+    if usage()["ask"] >= GLOBAL_ASK_PER_DAY:
+        st.warning("Daily demo limit reached to keep API costs bounded. Try again tomorrow.")
 
 # ------------------------------------------------------------- 5. explorer
 with tabs[4]:
