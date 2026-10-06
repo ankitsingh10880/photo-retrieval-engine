@@ -138,7 +138,8 @@ with tabs[1]:
         a, b, c = st.columns(3)
         app_id = a.text_input("App id", "com.google.android.apps.photos")
         country = b.selectbox("Country", ["in", "us", "gb", "au", "ca"])
-        n_pull = c.slider("Reviews to pull", 200, 2000, 600, 100)
+        n_pull = c.slider("Reviews to pull", 200, 2000, 600, 100,
+                          help=f"Free to pull. Only reviews that pass the keyword filter are labelled, up to {LIVE_CAP} per run.")
         if st.button("Collect, filter and label", type="primary", disabled=live_blocked):
             with st.status("Running pipeline…", expanded=True) as s:
                 st.write("Collecting reviews…")
@@ -176,7 +177,7 @@ with tabs[1]:
                          width="stretch", hide_index=True)
 
     used = st.session_state["live_runs"]
-    runs_slot.caption(f"Live runs are capped at {LIVE_CAP} items. Results merge into Findings and Ask for this session. "
+    runs_slot.caption(f"Each run pulls reviews for free, keeps those about finding photos, and labels at most {LIVE_CAP} with Claude. Results merge into Findings and Ask for this session. "
                       f"Runs left this session: {max(MAX_LIVE_RUNS - used, 0)} of {MAX_LIVE_RUNS}."
                       + (" Demo limit reached for this session to keep API costs bounded." if used >= MAX_LIVE_RUNS else "")
                       + f" Daily limit across all visitors: {GLOBAL_LIVE_PER_DAY} runs "
