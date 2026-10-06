@@ -1,0 +1,1016 @@
+{"id": "play_7cb68c45-edde-4524-b85c-097c4bf81cfd", "error": true}
+{"id": "play_c7e790c9-9e85-480e-b1f1-54887729ba85", "error": true}
+{"id": "play_79fb5253-1822-4e41-8b63-9840e4215efe", "error": true}
+{"id": "play_c83b37c2-4a52-4fa8-8b02-f79995576db9", "error": true}
+{"id": "play_9c16645e-1ec8-4d77-b0fe-e0bf070c9259", "error": true}
+{"id": "play_b1aba678-71e5-4a53-820b-d3995f9f686c", "error": true}
+{"id": "play_e4f2c645-9ba8-419a-8598-b41e63722dcc", "error": true}
+{"id": "play_34fc2d59-942f-458f-9936-e171c458338d", "error": true}
+{"id": "play_8cdfe0de-8497-4b6c-ade1-b35f20b5f4b8", "error": true}
+{"id": "play_b190be7a-c033-4502-9f91-597f09ada319", "error": true}
+{"id": "play_6762bae6-3101-4518-b9eb-207aaaa7d4cd", "error": true}
+{"id": "play_b1ac8f31-169e-4df5-926b-f617f503d8f3", "error": true}
+{"id": "play_88438cc8-9730-44cf-82b6-5f7d4bc1a70d", "error": true}
+{"id": "play_038ca6e3-6ab4-4a28-be0f-b6345a629a2f", "error": true}
+{"id": "play_7a28e86f-7fe9-484c-b4be-f9010ce784c0", "error": true}
+{"id": "play_d36f3a11-9b2d-4b18-8c6a-72ba4b07128b", "error": true}
+{"id": "play_b288b47e-df14-4c54-8b86-f9e75e730a36", "error": true}
+{"id": "play_a2413fef-6d79-44ee-9451-f0cb612c69b4", "error": true}
+{"id": "play_0e8a7d3f-d8b2-42ba-a06b-dae8851c37d2", "error": true}
+{"id": "play_b5a7131a-d9f5-472a-9177-96470a749006", "error": true}
+{"id": "play_322c3813-25b7-4aee-8d09-94d52285dcc8", "error": true}
+{"id": "play_16356980-6461-481d-a9b8-580ec9d4fad9", "error": true}
+{"id": "play_1c8ccb2b-7669-4143-97fc-786e3d38fdec", "error": true}
+{"id": "play_e5c9be75-7682-47dc-9e0e-a1909edc5dff", "error": true}
+{"id": "play_d5113a79-5fac-4628-9443-d9ea4c4e4351", "error": true}
+{"id": "play_2ff6e477-324e-47c2-827f-9eb8ee05c0d2", "error": true}
+{"id": "play_103baab9-1172-4b20-884e-a33af6e72f18", "error": true}
+{"id": "play_50e9dea8-8eb2-46c3-9b13-d11867e70c06", "error": true}
+{"id": "play_ba03181b-ac0a-473a-bcef-d31f9b34c569", "error": true}
+{"id": "play_7270bc16-199a-4596-85cf-349ea48129d3", "error": true}
+{"id": "play_14631401-5906-4472-bc0f-e816e0a9c8c3", "error": true}
+{"id": "play_1c3b8e67-1ad4-4344-9fea-b1efd14c1709", "error": true}
+{"id": "play_59a88002-ef20-41c7-a646-106fe64738d3", "error": true}
+{"id": "play_86cedd80-34a6-4cd4-a734-0bff504f62ac", "error": true}
+{"id": "play_8799534c-6b89-4b5f-8b54-0cc8256c098b", "error": true}
+{"id": "play_180005cb-b566-4430-847a-7be23ae046b9", "error": true}
+{"id": "play_f47d5d93-76ce-42f1-8a30-b499f94f8c15", "error": true}
+{"id": "play_fab83449-0c0b-41d3-8f08-530ea54462bd", "error": true}
+{"id": "play_54d0dac8-2075-4def-afe2-1cb1fa952836", "error": true}
+{"id": "play_8daca402-2e5b-46bb-9ecc-3c5211607ac2", "error": true}
+{"id": "play_7cb68c45-edde-4524-b85c-097c4bf81cfd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only, no difficulty finding photos."}
+{"id": "play_c7e790c9-9e85-480e-b1f1-54887729ba85", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must find old photos in original folder by browsing; takes forever."}
+{"id": "play_79fb5253-1822-4e41-8b63-9840e4215efe", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Word search doesn't work properly, misreads text queries."}
+{"id": "play_c83b37c2-4a52-4fa8-8b02-f79995576db9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album transfer request; organising issue, not finding a specific photo."}
+{"id": "play_9c16645e-1ec8-4d77-b0fe-e0bf070c9259", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to quickly find recent photos; browsing mixed device folders."}
+{"id": "play_b1aba678-71e5-4a53-820b-d3995f9f686c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Places list hard to scroll to locate photos by city."}
+{"id": "play_e4f2c645-9ba8-419a-8598-b41e63722dcc", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Editing feature requests, not about finding photos."}
+{"id": "play_34fc2d59-942f-458f-9936-e171c458338d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Editing UI and feature complaints; not locating photos."}
+{"id": "play_8cdfe0de-8497-4b6c-ade1-b35f20b5f4b8", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search for 'ID' returns random photos, misreads query."}
+{"id": "play_b190be7a-c033-4502-9f91-597f09ada319", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General complaint about features and Memories; no finding difficulty."}
+{"id": "play_6762bae6-3101-4518-b9eb-207aaaa7d4cd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise, no retrieval difficulty."}
+{"id": "play_b1ac8f31-169e-4df5-926b-f617f503d8f3", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching 'car' returns zero results; clear clue ignored."}
+{"id": "play_88438cc8-9730-44cf-82b6-5f7d4bc1a70d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Sync/backup, deletion behavior and editing complaints."}
+{"id": "play_038ca6e3-6ab4-4a28-be0f-b6345a629a2f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing because they were never backed up."}
+{"id": "play_7a28e86f-7fe9-484c-b4be-f9010ce784c0", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searches for memes now return 'nothing found'."}
+{"id": "play_d36f3a11-9b2d-4b18-8c6a-72ba4b07128b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Video stabilisation editing complaint."}
+{"id": "play_b288b47e-df14-4c54-8b86-f9e75e730a36", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Metadata loss on export, not finding photos."}
+{"id": "play_a2413fef-6d79-44ee-9451-f0cb612c69b4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping and AI editing complaints, no finding difficulty."}
+{"id": "play_0e8a7d3f-d8b2-42ba-a06b-dae8851c37d2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Sorting/layout and archive suggestion complaints; not explicit search."}
+{"id": "play_b5a7131a-d9f5-472a-9177-96470a749006", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Wrong date ordering complaint, not explicit difficulty finding."}
+{"id": "play_322c3813-25b7-4aee-8d09-94d52285dcc8", "error": true}
+{"id": "play_16356980-6461-481d-a9b8-580ec9d4fad9", "error": true}
+{"id": "play_1c8ccb2b-7669-4143-97fc-786e3d38fdec", "error": true}
+{"id": "play_e5c9be75-7682-47dc-9e0e-a1909edc5dff", "error": true}
+{"id": "play_d5113a79-5fac-4628-9443-d9ea4c4e4351", "error": true}
+{"id": "play_2ff6e477-324e-47c2-827f-9eb8ee05c0d2", "error": true}
+{"id": "play_103baab9-1172-4b20-884e-a33af6e72f18", "error": true}
+{"id": "play_50e9dea8-8eb2-46c3-9b13-d11867e70c06", "error": true}
+{"id": "play_ba03181b-ac0a-473a-bcef-d31f9b34c569", "error": true}
+{"id": "play_7270bc16-199a-4596-85cf-349ea48129d3", "error": true}
+{"id": "play_14631401-5906-4472-bc0f-e816e0a9c8c3", "error": true}
+{"id": "play_1c3b8e67-1ad4-4344-9fea-b1efd14c1709", "error": true}
+{"id": "play_59a88002-ef20-41c7-a646-106fe64738d3", "error": true}
+{"id": "play_86cedd80-34a6-4cd4-a734-0bff504f62ac", "error": true}
+{"id": "play_8799534c-6b89-4b5f-8b54-0cc8256c098b", "error": true}
+{"id": "play_180005cb-b566-4430-847a-7be23ae046b9", "error": true}
+{"id": "play_f47d5d93-76ce-42f1-8a30-b499f94f8c15", "error": true}
+{"id": "play_fab83449-0c0b-41d3-8f08-530ea54462bd", "error": true}
+{"id": "play_54d0dac8-2075-4def-afe2-1cb1fa952836", "error": true}
+{"id": "play_8daca402-2e5b-46bb-9ecc-3c5211607ac2", "error": true}
+{"id": "play_322c3813-25b7-4aee-8d09-94d52285dcc8", "error": true}
+{"id": "play_16356980-6461-481d-a9b8-580ec9d4fad9", "error": true}
+{"id": "play_1c8ccb2b-7669-4143-97fc-786e3d38fdec", "error": true}
+{"id": "play_e5c9be75-7682-47dc-9e0e-a1909edc5dff", "error": true}
+{"id": "play_d5113a79-5fac-4628-9443-d9ea4c4e4351", "error": true}
+{"id": "play_2ff6e477-324e-47c2-827f-9eb8ee05c0d2", "error": true}
+{"id": "play_103baab9-1172-4b20-884e-a33af6e72f18", "error": true}
+{"id": "play_50e9dea8-8eb2-46c3-9b13-d11867e70c06", "error": true}
+{"id": "play_ba03181b-ac0a-473a-bcef-d31f9b34c569", "error": true}
+{"id": "play_7270bc16-199a-4596-85cf-349ea48129d3", "error": true}
+{"id": "play_14631401-5906-4472-bc0f-e816e0a9c8c3", "error": true}
+{"id": "play_1c3b8e67-1ad4-4344-9fea-b1efd14c1709", "error": true}
+{"id": "play_59a88002-ef20-41c7-a646-106fe64738d3", "error": true}
+{"id": "play_86cedd80-34a6-4cd4-a734-0bff504f62ac", "error": true}
+{"id": "play_8799534c-6b89-4b5f-8b54-0cc8256c098b", "error": true}
+{"id": "play_180005cb-b566-4430-847a-7be23ae046b9", "error": true}
+{"id": "play_f47d5d93-76ce-42f1-8a30-b499f94f8c15", "error": true}
+{"id": "play_fab83449-0c0b-41d3-8f08-530ea54462bd", "error": true}
+{"id": "play_54d0dac8-2075-4def-afe2-1cb1fa952836", "error": true}
+{"id": "play_8daca402-2e5b-46bb-9ecc-3c5211607ac2", "error": true}
+{"id": "play_322c3813-25b7-4aee-8d09-94d52285dcc8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about popups and UI button placement."}
+{"id": "play_16356980-6461-481d-a9b8-580ec9d4fad9", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "General complaint that search has become worse; no more detail."}
+{"id": "play_1c8ccb2b-7669-4143-97fc-786e3d38fdec", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Folders not recognised, so must go through all images to find one."}
+{"id": "play_e5c9be75-7682-47dc-9e0e-a1909edc5dff", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Finding photos depends on how search interprets words; people-name finding harder."}
+{"id": "play_d5113a79-5fac-4628-9443-d9ea4c4e4351", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mostly praise plus a feature request; no stated failed retrieval."}
+{"id": "play_2ff6e477-324e-47c2-827f-9eb8ee05c0d2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face-labeling error bug; not a described failed photo search."}
+{"id": "play_103baab9-1172-4b20-884e-a33af6e72f18", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search no longer handles date queries; search got worse."}
+{"id": "play_50e9dea8-8eb2-46c3-9b13-d11867e70c06", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing or jumbled; sync and ads complaint, not search failure."}
+{"id": "play_ba03181b-ac0a-473a-bcef-d31f9b34c569", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Storage, deletion and payment complaint."}
+{"id": "play_7270bc16-199a-4596-85cf-349ea48129d3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Layout and Gemini permission complaint; no failed retrieval described."}
+{"id": "play_14631401-5906-4472-bc0f-e816e0a9c8c3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face tagging UI complaint, not about finding a photo"}
+{"id": "play_1c3b8e67-1ad4-4344-9fea-b1efd14c1709", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for collages, movies and sharing; no difficulty"}
+{"id": "play_59a88002-ef20-41c7-a646-106fe64738d3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing or lost, not a retrieval difficulty"}
+{"id": "play_86cedd80-34a6-4cd4-a734-0bff504f62ac", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that search refuses and doesn't work"}
+{"id": "play_8799534c-6b89-4b5f-8b54-0cc8256c098b", "is_retrieval": true, "failure_stage": "3_evaluation", "reason": "Search results lack date separation, so hard to pick the right photo"}
+{"id": "play_180005cb-b566-4430-847a-7be23ae046b9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face group feature question and request; no stated finding failure"}
+{"id": "play_f47d5d93-76ce-42f1-8a30-b499f94f8c15", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Has to scroll a large collection to find a specific photo"}
+{"id": "play_fab83449-0c0b-41d3-8f08-530ea54462bd", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searches for tyre, home and cat return wrong or no results"}
+{"id": "play_54d0dac8-2075-4def-afe2-1cb1fa952836", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find anything after folder locations change; browsing, not searching"}
+{"id": "play_8daca402-2e5b-46bb-9ecc-3c5211607ac2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't locate photos and videos put in private folder"}
+{"id": "play_829a0810-fee6-4f21-940d-0019a9f4d4b1", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must dig through folders to find photos instead of one gallery view."}
+{"id": "play_9f15dfaa-310f-42b6-90b9-7c389b1a522b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Folder mixing makes images hard to find; browsing folders, no search."}
+{"id": "play_01105c02-9e73-47d3-b5b3-1d4a77e47c3c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Homepage display and album organisation complaint; no finding difficulty stated."}
+{"id": "play_28da1ffe-9197-4744-8eca-09f99ea2ef31", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Backed-up photos missing; not a retrieval problem."}
+{"id": "play_96f63d7d-247f-4809-a595-dd66ecc229c8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Downloaded files hard to locate; general design and editing complaints."}
+{"id": "play_43cee8e7-7072-4979-93b6-ef2d5a81ea1d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photo ordering and date issue; no finding difficulty stated."}
+{"id": "play_64c97a8f-7a66-4802-8fdd-dd9dbc1d4878", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search option gone, finding photos takes long; can't search by name."}
+{"id": "play_783d1e27-5a82-4115-a271-3a40bab241c4", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos scattered across places; has to search around to find them."}
+{"id": "play_dbe382e5-210a-49e6-9bc4-132cbe9f7c56", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Took three minutes to find a just-taken photo; no search attempt described."}
+{"id": "play_2ade3fc6-4a6f-4131-ba64-58429ea620fc", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to navigate and find photos; main page not showing all in order."}
+{"id": "play_c5651fcc-478a-4e1b-abad-a5c94b5cefe1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague 'can't find images' with editing/UI complaints; no search or retrieval detail."}
+{"id": "play_c726a304-dd94-4e61-b542-8fb61303c9a3", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Previously working queries now return 'no results'."}
+{"id": "play_84a008d0-dc60-4c17-bf8b-30c97ad3a19d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for finding old photos, no difficulty."}
+{"id": "play_8dfb1aea-91f6-4411-bd5d-4f1fb76ae6d0", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Camera photos mixed up, hard to find by browsing."}
+{"id": "play_e2590da6-84d4-4e54-bdcd-63d02c931077", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about file browsing and phone folders, not locating photos."}
+{"id": "play_a742be81-7f4f-44cc-953e-2d2713c729d5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Sorting and backup complaint after restore; not about finding photos."}
+{"id": "play_e170c506-439d-44cb-bffa-f313cf97f737", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search misreads word queries when seeking an old meme."}
+{"id": "play_bc2af8a5-f43c-421f-b420-7cabc02667b6", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching pictures by name doesn't work."}
+{"id": "play_4abebfb5-0604-4cc6-9eaa-a327226f56d6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organisation, storage and backup complaints; possible missing photos, no retrieval attempt."}
+{"id": "play_28c50691-cf6a-4c42-8b5f-c68980d8a264", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Address search returns nothing despite albums organised by address."}
+{"id": "play_dcbd92a7-b0b1-47ef-aed0-a64a21fa4dc9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Account recovery/login issue, not locating photos in library"}
+{"id": "play_95944e41-ece9-4737-9e8e-53eaddad6df6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face groups UI complaint; search by name works"}
+{"id": "play_baae6c40-9512-4fd1-b632-33ef151faaed", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Old photos missing/can't find, likely not synced; no search detail"}
+{"id": "play_377a58bf-117b-46d0-bbed-6f86a5945179", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping complaint, no stated difficulty finding photos"}
+{"id": "play_72dcb862-c595-4edf-a0a9-0ba0b9d4519e", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "'Car Engine' search shows only 15 of hundreds, irrelevant results"}
+{"id": "play_43a0d86c-0f6c-43c8-934c-e862c866ff9c", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searched but target photos aren't showing in search results"}
+{"id": "play_942c4795-6c73-47ba-8de5-df1a59160977", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Starred photo can't be found; confusing organisation, no search attempt"}
+{"id": "play_f7a2f0a5-1e85-4f5b-97e2-e8841c0658b0", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search inaccurate, so resorts to visual inspection"}
+{"id": "play_5241b6f8-d70d-4894-93b2-679d1e9bf9a6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Billing complaint and lost photos; not locating existing photos"}
+{"id": "play_147e9dcb-a278-4def-a615-723c342d49a8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album sort order/sync complaint, not about finding a photo"}
+{"id": "play_c7fd2d47-8fbb-4222-901d-666ff121dd29", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; photos restored after re-enabling app, no search difficulty."}
+{"id": "play_b0b41afd-959c-4ce5-b97b-ec20bf987318", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos hidden in folders and hard to locate; browsing, not search."}
+{"id": "play_d874566f-b1d1-4ea6-b0f6-4db4b36fd46c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face tagging and private folder complaints; no stated difficulty finding photos."}
+{"id": "play_be430887-186c-448a-9e15-c01d77128978", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI, AI tools, Memories and album ordering complaints; no finding difficulty."}
+{"id": "play_d8a6e523-2eb2-499f-ba0a-b242a82b38a5", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "General complaint that image search got worse."}
+{"id": "play_a063c498-e373-40ef-8576-598daab29f0d", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search now terrible; can't find photos they look for."}
+{"id": "play_62c67eee-bad9-4a88-908f-599807bdfceb", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching a person's name fails to return their face photos."}
+{"id": "play_56b98d58-f989-4991-bfeb-3e25738a4b89", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Couldn't search because Gemini forced and intrusive; search channel blocked."}
+{"id": "play_af95884a-ef09-48f4-9ef7-9de4efbf7568", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Image search results worse than before."}
+{"id": "play_3c905b64-706d-4481-b3cc-306f0416cff1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Edited photos missing or not synced to share picker."}
+{"id": "play_aaea13ea-0a08-4198-a16b-9f210e60a709", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Upload status visibility request; backup/UI, not locating photos"}
+{"id": "play_c051d062-8e4e-424a-9c49-d4223d592ddf", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Date-view UI complaint; no stated failure to find a photo"}
+{"id": "play_59acf2e3-6a05-4956-a30a-5f29d22a9222", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "General complaint that app can't find gallery photos"}
+{"id": "play_54c9ce9a-14d3-4bb2-81d0-cbf572a7d0af", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find needed photos; calls app useless, no search described"}
+{"id": "play_b54b49c3-d528-44fb-81a9-ebc909f928af", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search for people/objects returns nothing; queries not understood"}
+{"id": "play_31ab9f12-ffb4-4711-ad73-cc3f4af13a3b", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search can't locate obvious photos known to exist"}
+{"id": "play_17ff7e6d-5871-4b4a-961b-a8643651fead", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find photos; browsing by date broken, digging through collections"}
+{"id": "play_0f9ad393-91cc-45eb-bcc2-4882bfbae5f3", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find photos; lacking categories, browsing fails"}
+{"id": "play_699245f6-e958-4faa-a544-ddf42ad66ec3", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Exact-name search ignored; returns unrelated AI-similar pictures"}
+{"id": "play_90ad0544-cb78-439e-88ca-d02a3b795fb3", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find backed-up photos again; no search described"}
+{"id": "play_b83d8437-28ca-4f9d-a453-36dd41556022", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll through years of photos to locate restored images."}
+{"id": "play_cc304f99-c7d6-4606-a7b2-fc121097f19c", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search broken; can't find a photo by particular date."}
+{"id": "play_bd953071-c12e-49d1-9d15-53bd2978a137", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search never works, returns blanks even for suggested searches."}
+{"id": "play_cbbce8f1-5060-44d8-8a18-0ac73fcf2ef4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos disappeared; missing, not a retrieval difficulty."}
+{"id": "play_43a1cba8-2cfe-4610-8c02-cc7cfe4c576c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI/feature complaint about search bar and Gemini, not locating a photo."}
+{"id": "play_d6276e7a-5d2b-4533-ac69-4242148d9e22", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search doesn't return the photos being looked for."}
+{"id": "play_6cf35a27-cd8e-4f3b-a07e-c409316e6f71", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos scattered across folders make them hard to find."}
+{"id": "play_7ff95532-c66a-4b03-b847-3736344a8261", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Editing complaint and photos missing from timeline, not search difficulty."}
+{"id": "play_82938483-f558-40bf-a603-73d84612ab11", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI layout and mass-delete complaint; no stated difficulty finding photos."}
+{"id": "play_069518e9-1250-41a0-bc6b-5a550e521b4a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pet recognition/face grouping issue; search for dogs works."}
+{"id": "play_04b4dc4a-17db-4d8a-b748-9cb885b66f57", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Looking things up, search shows unhelpful suggestions instead of what they want."}
+{"id": "play_5aba443b-ae59-44e2-bb22-2367cd88c954", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Auto-organising complaint; no stated difficulty finding a photo."}
+{"id": "play_ec6e01b3-0806-40e1-b56d-080e373bdeba", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Viewing glitch/bug, not about locating photos."}
+{"id": "play_dba216ba-5543-43de-85e5-d577921db15b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General memory and learning difficulty; no photo-finding problem stated."}
+{"id": "play_70e457cf-099e-4d4c-a139-3069dc7d339a", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search by metadata tag doesn't work without Google servers."}
+{"id": "play_b165dbf4-99bf-4bcc-9002-a7648de525e2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint: can never find anything; app is a disaster."}
+{"id": "play_7e2755dc-591c-40ae-af0e-a318f38659e7", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Has to browse collections to find screenshots instead of searching."}
+{"id": "play_3e582f87-caee-41fb-8f62-d38cdedd94dd", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Wants to search for a particular image but search doesn't work."}
+{"id": "play_dc2e8e94-dc16-4dc4-bc57-b815b33f0c8d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find saved photos; they're hidden in unclear locations."}
+{"id": "play_ada4c676-9822-4a94-8ebe-e292625e14a9", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searched with words known to apply; search returned nothing."}
+{"id": "play_b7217d13-fac5-42ab-b065-fabd199fd68d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Continuous scrolling makes locating photos by date annoying; browsing, not search."}
+{"id": "play_a682d12c-0d6a-469f-a80d-273bde174578", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search doesn't identify product photos, only people and pets."}
+{"id": "play_7c83b3f9-20fc-4611-a9e3-72f57e0f07eb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search, no difficulty described."}
+{"id": "play_91fad379-7170-455c-9c54-8b43bab21b51", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Deleted photos and pet grouping complaint, not finding difficulty."}
+{"id": "play_6dbbe3c7-21d6-4e60-9cab-a0321bcecade", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Spent an hour unable to find a photo; no search stage stated."}
+{"id": "play_1f5d3caa-3c00-4ab6-b98f-d584ee0253e3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague UI and folder complaint, not clearly locating a photo."}
+{"id": "play_5588dac1-6b61-46ea-8d37-2871a28182c5", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Uploaded photos buried among thousands; refused to scroll through them."}
+{"id": "play_4e1cbea7-1389-43f0-810a-f2d8124ada49", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "No way to locate a just-taken screenshot; lacks folders."}
+{"id": "play_2af991b1-0548-4866-bf3b-75196eddff30", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Grid change makes scanning to find older photos harder."}
+{"id": "play_3890e3e8-2e2d-412a-9a59-6c2f4b8bafcb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about gallery organisation and privacy, not finding a photo."}
+{"id": "play_da80cc2c-2fba-46b4-bde8-844b1921bc8c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search sucks, so goes through photos one by one."}
+{"id": "play_eeded390-6985-474d-8538-6c69f7a39c0c", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Simple query 'cars' returns no cars; search misreads clue."}
+{"id": "play_dcf53749-f7f0-408a-b984-b9683fc16213", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Label term 'SubGenius' no longer returns the labeled images."}
+{"id": "play_45bee150-90f1-47d3-a41d-6bfc24fc2a4f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos and albums disappearing after backup; missing content, not retrieval."}
+{"id": "play_53afa4d3-4827-4771-9216-9589ccc92ca8", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't browse or scroll to old media; forced to go year by year."}
+{"id": "play_2bea3e6c-922d-4695-9f23-c907eac9dd25", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Navigation and UI complaint with backup off; not clearly retrieval."}
+{"id": "play_ff3cae5c-99a9-4310-a182-f8401db522a6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI and feature-change complaint about favorites and grid settings."}
+{"id": "play_b7318844-0469-4907-a73b-fb1ebc46fd4d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that search has become very bad."}
+{"id": "play_8503344d-a038-4f9b-ae2e-75cc57069007", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mainly editing, Remix, and sharing UI complaints; no clear photo-finding failure."}
+{"id": "play_e3519b6a-bc38-4102-819c-fa0bcfb8e38a", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching photos by name no longer works."}
+{"id": "play_b54e10ce-cd27-4387-9f2f-a3c5fc2d5e78", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Cropping bug and location-entry problems, not locating photos"}
+{"id": "play_618e24c4-de87-4e30-a368-fd76b541260c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Scrolling/viewing malfunction complaint, not clearly about finding a photo"}
+{"id": "play_9729cf99-0a22-47a0-aad8-034d12f841cb", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint: app useless, can't find pics"}
+{"id": "play_c436a612-4b31-4bd4-8824-6528ba767e60", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must dig through years manually to find a 2021 photo"}
+{"id": "play_62d3d528-6a96-457b-a045-94c53a1632e7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Monthly view layout/UI complaint"}
+{"id": "play_9bae19b0-2f3a-41a7-a22e-d54a09dfbbb7", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Keyword searches return 'no results' for existing photos"}
+{"id": "play_d7a8348a-1b46-497e-951e-74bce00fcea8", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Display change made browsing to find photos hard; no search"}
+{"id": "play_69a8c2bc-6802-45e2-abe8-f95492081853", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Chat photos not found; likely missing, unclear retrieval"}
+{"id": "play_ac64ef12-5f08-45f7-98d3-e0d0130fb872", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Screenshots and WhatsApp images not appearing; missing photos"}
+{"id": "play_ff3e55db-d0bf-46b2-bd9d-1e8810a7b4bc", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Update broke organisation; uses another app to find photos"}
+{"id": "play_ef789513-f6be-4023-b2f5-e047ea9547cd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI/date grouping and album search complaint, no photo-finding failure stated"}
+{"id": "play_f58f0d55-7b9c-426c-9f9d-2078530c61c0", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Keywords don't surface specific photo; falls back to scrolling"}
+{"id": "play_2530ee6e-ba36-4da9-a8b4-5a7b57de60aa", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Previously working keywords now return no results"}
+{"id": "play_2865fbd1-e82d-4490-a7d9-5f4df1482d6d", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Names in description labels no longer matched by search"}
+{"id": "play_7251e9f0-ec31-4c20-8471-8a9650470200", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says new search is useless, can't find anything"}
+{"id": "play_cab6678e-de73-48c7-9404-60c651fe5d1f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about missing/hidden feature, no specific retrieval failure described"}
+{"id": "play_8040c8cc-2710-4f0c-8432-e8d65a0d58d2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hunted 20 minutes for a screenshot, no search used"}
+{"id": "play_ddef4035-4ace-41e9-9dbd-5b1186c6fe27", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Layout makes browsing for older photos difficult"}
+{"id": "play_4c58e069-577e-405f-92bc-c63149eb87d0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Search bar blank is a UI bug, no retrieval attempt described"}
+{"id": "play_897711fc-0fb7-457a-b392-0328fce5eb82", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Faces, AI features, archive suggestions, duplicates; not finding photos"}
+{"id": "play_c9e7d180-0f7f-48b1-a4e9-4735fbdc8ccf", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Album titles vanish, so they scroll thousands of files to find one."}
+{"id": "play_9d51dede-c7bb-4950-a8a5-c74708fb2b88", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about date display and layout, not about finding a photo."}
+{"id": "play_823fb45a-ebb4-4721-bb4d-7565ed12f99a", "is_retrieval": true, "failure_stage": "4_refinement", "reason": "Search now needs five or six clarifications to find basic things."}
+{"id": "play_bc035c56-3cd7-481b-98bf-09fe07e6c769", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that search is nearly impossible to use."}
+{"id": "play_6df730c8-b556-498e-810f-7b004a3cafd7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Thumbnail size and display preference complaint, no finding difficulty."}
+{"id": "play_e41cb418-ef38-469d-aca6-cf2f3c883073", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI complaints about selection, album scrolling and thumbnails, not finding a photo."}
+{"id": "play_13c38232-9a7e-4654-a89e-bdfef6abdb5a", "is_retrieval": true, "failure_stage": "3_evaluation", "reason": "Unordered face list makes finding a specific person's pictures hard."}
+{"id": "play_35dbe3ae-a846-4015-87e1-3ae7657426bc", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Wrong dates make finding pictures by browsing the timeline frustrating."}
+{"id": "play_04926827-f070-4a86-8304-6589751c01d9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organising complaint and vague lost uploads, no explicit finding attempt."}
+{"id": "play_4c948ab7-3878-480e-b54f-660896aa0345", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Basic search terms no longer find photos known to exist."}
+{"id": "play_ca7fc101-00cf-454b-9a60-35535cf79bf8", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that search doesn't work properly; no detail given."}
+{"id": "play_f5309d19-c962-429f-88d0-21e3ff5bbd8a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Timeline/date-label UI complaint and storage request, not locating a photo."}
+{"id": "play_47c90ad3-7c20-4f90-8dfb-b06701b74502", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague 'review' difficulty; not clearly about locating photos."}
+{"id": "play_d4f1520d-3f47-4280-bcc2-eb5cc184fa45", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About finding albums, not finding a photo."}
+{"id": "play_3453c13d-fa12-4c32-a72f-3260c7e00652", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "New search misreads faces and returns scattershot AI results."}
+{"id": "play_f97721a8-d277-4db3-a241-bb0d27722830", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI, thumbnails, storage and features complaints; no specific finding failure."}
+{"id": "play_26604a83-3bcf-43f1-a740-d411407e9331", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Face groups lost; can't find people in photos; face search fails."}
+{"id": "play_8ab7d0df-e6b1-4b57-8146-685ab7ff706d", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching by file name returns irrelevant results instead of the images."}
+{"id": "play_b4cb37ba-5f17-4c9e-ae56-b064789a995a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Removed date-selection option; UI complaint, not about finding a photo."}
+{"id": "play_74b45b43-367e-4db8-9986-6eb966307c01", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General update/UI complaint about date separation and clutter."}
+{"id": "play_8b188cd8-3eef-4c4e-a7e2-9403122c2846", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Downloaded photos not appearing in gallery; missing/sync issue, not search."}
+{"id": "play_4dbb0510-81f3-4f9d-88e1-ed52c7708190", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find pictures when browsing the timeline without month separation."}
+{"id": "play_18e30b29-3652-48cb-bf31-4d8374dbb857", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that search got worse after Gemini; no detail given."}
+{"id": "play_bf948d25-07fc-42fb-9373-cf668d1fff70", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Images missing from the app, not a search or browsing difficulty."}
+{"id": "play_884f7d01-d0b2-42c0-a437-0c6c70614583", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find pictures because main view shows only some photos."}
+{"id": "play_3dde7d98-fc9c-46cb-b244-51f37bc1c5f5", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Simple searches return no results, while another app finds them."}
+{"id": "play_91f5c92e-3bcd-4e15-9374-6b6103e010e1", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search option gone, so can't find a person's photos."}
+{"id": "play_3a547f21-7da5-44fd-86a7-ff2b7307395c", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search fails even when typing the exact description."}
+{"id": "play_c40720eb-0adb-432e-86d5-c52a1cceb0e2", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search broken; keywords seemingly ignored or suppressed."}
+{"id": "play_6675ab6e-16d1-487b-90ac-5928c109b510", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find own pics because photos hidden and browsing is difficult."}
+{"id": "play_23dacf60-656a-44e6-8d7b-fd50ef90f132", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find recent download in picker; bypasses Photos via Files app."}
+{"id": "play_a2bee9ea-3dfd-431d-aa09-fbbf49e52c3a", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Reasonable queries for photos in library return no results."}
+{"id": "play_d926fd85-3427-4c3b-a218-15d85358b26d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "No search in locked folder; must scroll endlessly to find photos."}
+{"id": "play_266ffa81-46e3-481f-9c35-5d81f2e0d7b7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about forced face-selection prompt, not finding difficulty."}
+{"id": "play_829193c1-5ec9-4238-965b-6cfcb129ad7a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping complaint; no stated difficulty finding photos."}
+{"id": "play_9f712c43-3f31-42fd-a5e0-ab9faba6c0c6", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Missed face tags make photos absent from face lookup; must scroll."}
+{"id": "play_205387ff-8701-4223-a794-e9f052f8f61d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding old pictures is difficult; no stage detail given."}
+{"id": "play_5aa4cef4-f3d2-48b9-9981-33136527b77b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Misdated video forces scrolling through hundreds to find it."}
+{"id": "play_0caffd33-c639-4e26-bd28-a3f71f4ec023", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Merged photos without date separation make browsing to find photos hard."}
+{"id": "play_ed6871e6-cf0f-4938-89ff-4a4b89ab4c0a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Varying thumbnail sizes make browsing for wanted pictures hard."}
+{"id": "play_adb334f0-4f47-4a1b-8652-8697a05bec04", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Browsing by date grid is hard; no separation, not using search"}
+{"id": "play_1e8bcf53-a206-4d76-ad14-b64da49c6031", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI grouping preference; no stated difficulty finding a photo"}
+{"id": "play_8a481429-cf47-4ec7-b48e-355708061013", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Missing search bar makes searching for photos difficult"}
+{"id": "play_613360dd-e6d6-40f4-9327-045d1d4177b2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Auto folders/albums make finding stuff hard; browsing-based difficulty"}
+{"id": "play_d1cf3f8a-a893-49be-95a1-1798323ace01", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI grouping and face-tagging workflow complaints, not finding a photo"}
+{"id": "play_66eb94d8-9309-4476-825a-47dd0dd3941d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Not organized by day; nearly impossible to find photos by browsing"}
+{"id": "play_e626cbbf-1c0a-4167-8a8f-4538be21b518", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Layout clutter and AI/performance complaints; no stated finding failure"}
+{"id": "play_38de3da7-e3d4-4cd3-9bea-9bba05e9c1f1", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Uneven grid makes scanning and finding photos harder"}
+{"id": "play_a98831da-25a7-4ba0-a14d-2b08c78f2d9d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Tagging and group ordering complaints; no stated difficulty finding photos"}
+{"id": "play_5228f121-3a9c-4483-a1a9-161798df55e9", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Screenshots buried, hard to find; navigation not search"}
+{"id": "play_0ff86384-c35a-4755-a477-0fb516780d83", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Refuses AI-only search of own photos; abandons search channel"}
+{"id": "play_bbdfc7a1-63cb-4553-9b5d-f3c5be6663ba", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search slow, inaccurate; misreads 'maps' query as Google Maps"}
+{"id": "play_f38f4a2f-7eb0-453b-a273-47075e4d5460", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search by name fails due to wrong face assignments"}
+{"id": "play_586c10e9-9c09-4447-beee-6da1097cca7f", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Edited copy nearly impossible to find; had to browse recently added"}
+{"id": "play_dc40fa6f-05fe-43fa-8899-2f48bfa5ee59", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search never works for finding photos; slow loading"}
+{"id": "play_03c31111-f677-4bdf-a337-354076db33ee", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album/folder UI and Memories-style reminder complaints, no finding difficulty"}
+{"id": "play_fb853800-f7d4-4c6c-aa94-30548f6bfa21", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "New AI search rarely finds wanted photos"}
+{"id": "play_bd1afa26-2281-4093-a462-b9b6f1f4f0b5", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search returns 'Nothing found' or random results for clear query"}
+{"id": "play_9bf5689f-66c3-4ea9-b529-9718dc4fc96d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolls through ~4k screenshots for reference after favorites vanish"}
+{"id": "play_2d623efd-0948-4012-9181-9ed640859eb9", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "All searches return nothing; ignores labelled description text"}
+{"id": "play_475a0a0f-bcd5-47f8-9d8f-111e3f298ed0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping complaint; no difficulty finding a photo is stated."}
+{"id": "play_5813c7ea-ff5a-4197-8ac0-15734256b21e", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search is censored and fails to return things; they must reformulate."}
+{"id": "play_144ec96c-cff8-4927-b6a4-9010c3de3abb", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Large albums make browsing for a specific photo difficult."}
+{"id": "play_4c3065ba-7660-4a99-80fd-7307a0d46b11", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says it's nearly impossible to find pictures when browsing the feed."}
+{"id": "play_f80abfe5-d068-4d14-a2da-c71d106f57c3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Post-edit access problem and editing complaints; the finding claim is vague."}
+{"id": "play_36f90c6a-1d3d-4340-b2a0-75079ccf7265", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Lost or ruined photos; mostly praise, no search difficulty."}
+{"id": "play_c32d82ee-c104-412a-9659-cdde57c25f74", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI layout complaint; no explicit difficulty finding a specific photo."}
+{"id": "play_9957c225-6b93-4205-b8c6-fd9cd6670f0e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Uneven thumbnail sizes make them miss photos while scrolling to find one."}
+{"id": "play_2cadc2d5-808b-4f2d-902b-cbfd61f8dfa4", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search doesn't serve specific, deterministic queries for their own photos."}
+{"id": "play_9a4ee989-32ef-4ad4-b186-cd274eda20ad", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search fails to find photos; they can't find them as easily."}
+{"id": "play_abbd334b-719f-4816-88d0-ee702f7a1c2d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that search doesn't work as well as before."}
+{"id": "play_17aaa967-60af-4dcc-9b37-cfe3166c05fe", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find cloud photos; no search attempt mentioned."}
+{"id": "play_53212bf5-d610-458e-9713-7330d9cb8e4f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Tagging feature request; no stated difficulty finding a photo."}
+{"id": "play_5b31bb2b-d271-41c0-b3f6-47ae46e8955b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find specific photos; search not up to par."}
+{"id": "play_7a1c4008-b04f-441d-b488-d1d6fb4203aa", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague stability remark; no specific retrieval difficulty stated."}
+{"id": "play_b782ffaa-72c3-4892-b93b-064967634b6b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise plus blank older photos; not about finding."}
+{"id": "play_d3a76c5e-91de-46f0-be4c-bfb827b876a7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Layout and date display complaint; UI issue."}
+{"id": "play_a007a6d5-7d0c-49a6-93e6-413482627bfb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General UI navigation complaint, later resolved; no photo-finding failure."}
+{"id": "play_f67ea0be-c283-47cc-8c7a-c27f7b421974", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organisation and collections complaint; missing items from view, not finding difficulty."}
+{"id": "play_a275369e-6853-438b-b575-dee18abd8d65", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find folders; browsing navigation fails, no search used."}
+{"id": "play_f226800c-afea-42e1-9d26-3c50c0f604f7", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find a specific day when browsing the merged timeline."}
+{"id": "play_3b424ce1-221f-4a20-99ff-471a12f7afa2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding a video from another day in the continuous scroll is hard."}
+{"id": "play_3626d333-9ecd-4e6d-9de7-fa3f7ba819c8", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search by date and AI returns nothing for the photos."}
+{"id": "play_75d67bb5-4919-4dc2-9edf-d761c1aa6fa1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mainly lost face groups, favorites and locked photos, not a search failure."}
+{"id": "play_5ac40745-9a0a-4ed5-8804-0de5850dfa36", "is_retrieval": true, "failure_stage": "3_evaluation", "reason": "Search results are no longer date-ordered, so spotting items takes extra pinch-zooming."}
+{"id": "play_dcc073d9-456f-4241-97e2-f1899f9e8854", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding any photo or video takes about 5 minutes."}
+{"id": "play_6da082d4-3fbc-4f2c-9f6a-4b8e2dc48778", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos vanish from the tab after freeing storage, which is a missing-photos issue."}
+{"id": "play_b8e406d8-6e85-4c2a-b2ea-72a1c516450e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search is now so bad it should be removed."}
+{"id": "play_793b58af-683c-4c3e-b193-3c8528f0cc56", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search no longer accepts typed words, with or without quotation marks."}
+{"id": "play_7e90644f-52bf-4aa3-ae30-0a2b4fb224f7", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Timeline date markers no longer help locate images by date."}
+{"id": "play_e0247295-3d47-4f4b-8410-dcc9d5742db0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Editing/saving bug and folder error, not locating photos by search."}
+{"id": "play_47ed0960-867e-411c-8255-f5ebf9aac8e2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos not showing after backup; sync/missing photos issue."}
+{"id": "play_1b978232-9cc3-4e31-8b12-770bb7288fe3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album adding bug while offline; organising, not finding."}
+{"id": "play_03149221-2cbc-4fd7-8943-faf0031bfa3e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search function is now useless."}
+{"id": "play_08513c26-c4b6-4d65-8a91-e66ab05b0a8f", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't scroll through thousands of photos to reach frequently used one."}
+{"id": "play_d46b34e1-5a29-4d3f-9dfb-8cefc569cc5a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search option disappeared; can't search for documents."}
+{"id": "play_ff46dc92-4602-48ab-8d78-6095db4b72b5", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hunting manually for new photos; no search attempt stated."}
+{"id": "play_041c4c96-2971-41fa-9546-ceff4132f44c", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search returned random photos unrelated to the entered query."}
+{"id": "play_48aaccbc-c36b-4e00-9672-769a34c2b796", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Album photos non-chronological, impossible to find by browsing."}
+{"id": "play_add1d713-0d7f-4303-84d7-35e4aa2bc28b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "New UI makes finding albums and pictures harder via browsing."}
+{"id": "play_c344955b-9781-46bb-9b6c-e9e945482679", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search returned random photos unrelated to the entered query."}
+{"id": "play_e84732fc-77a0-40ea-ac81-bd4c2541e502", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Navigating layout for minutes to find screenshots; no search used."}
+{"id": "play_e30b5f2e-0c67-4b32-8a75-a2a0fe0258db", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Restored photos lost original date; not about finding photos."}
+{"id": "play_c0c9963d-e8b9-4f87-8618-f86840434188", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hunting through scattered folders to find pictures instead of searching."}
+{"id": "play_78cd31ff-d6e9-4794-b58e-b4a643d4f891", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search returns random unrelated photos, ignoring the query."}
+{"id": "play_f9f478ee-41a7-4441-a1e3-08843c25597b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll all photos to find one because albums don't declutter main."}
+{"id": "play_51fea29a-90c8-463a-ae67-b4ed2a8cc128", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search bar doesn't handle date searches; can't find photos."}
+{"id": "play_b8d188a3-30ca-4e62-b739-c687074f29b2", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Date search returns nothing for existing unbacked-up photos."}
+{"id": "play_ad02d5bd-ae0a-4350-97fd-aaf391c34969", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find the folder containing the wanted picture when browsing."}
+{"id": "play_9a5718a2-8890-458a-bfa2-6d2c2e9de9b2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping and album merging complaint; no finding difficulty stated."}
+{"id": "play_5b50e209-506e-41c4-8b00-cb609edbe9f6", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search can't find anything regardless of keyword; clues ignored."}
+{"id": "play_879c7bf1-620b-43d7-a15d-70e86afdf3e9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI/layout and Memories complaints; no retrieval difficulty stated."}
+{"id": "play_d9c0944a-a1de-4d73-b713-e4d1924ccdb1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General app slowness and loading/backup failure; unclear retrieval."}
+{"id": "play_95fe2a70-4444-46d8-bd3e-d7d784cd2e9d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing or inaccessible after update, not a retrieval issue."}
+{"id": "play_baf77d6d-1cc7-4074-93e4-f41689086d3b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find photos quickly; browsing and sorting by day is harder."}
+{"id": "play_4ee4f0a0-7ce7-4dcc-8588-4281a725e985", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says it's impossible to locate pictures; no search detail."}
+{"id": "play_05a04119-0b63-4ca3-b10e-77d14c3bee4b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos stored scattered, can't find them by browsing."}
+{"id": "play_5278bb1d-fa96-428d-811a-7d30afc8194d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album, sharing and storage pricing complaint; not finding a photo."}
+{"id": "play_4c94bbc0-c9de-4708-9420-c84c19c88688", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organising, sorting and feature requests; no stated difficulty finding a photo."}
+{"id": "play_dfa3958a-64cc-497c-87a5-54d92c228cd9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos disappearing from albums; missing photos, not retrieval."}
+{"id": "play_a36455d0-2890-4f34-b7be-800d1df1bdf5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Search complaint is about subscription paywall; mostly pricing, storage, and pen colours."}
+{"id": "play_c6bd342f-4cd1-469c-b763-7fbbbedbff0c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about removed lat/long display in photo info, not finding photos."}
+{"id": "play_b34671d3-e872-4442-99b5-30d18641d344", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Location and people search got harder; search misreads clues."}
+{"id": "play_c4cd71fc-0e88-499a-abad-fe72830b40aa", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pure praise; recovered photos, no retrieval difficulty."}
+{"id": "play_ac9fe36f-e131-46e8-9970-9a8af1875ee2", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search works only half the time; falls short on queries."}
+{"id": "play_2c62896e-ff90-4edd-a9b3-f29263f32020", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mainly UI and sharing complaints; friend's shared gallery, not own library."}
+{"id": "play_0d227d07-8481-4c77-a21a-adc6e171281c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find downloaded photos scattered across categories; browsing, not searching."}
+{"id": "play_77b37bc4-d9b8-4f96-bbda-3c63064b934b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI navigation complaint about extra click, not failed retrieval."}
+{"id": "play_b94ef052-d595-4fff-b5de-8ae359d88c6c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about removed collections feature; organising, not clearly retrieval."}
+{"id": "play_6fad6c0b-764b-4103-a27c-1fd0856f690a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find backed-up photos via layout; browsing, no search attempted."}
+{"id": "play_d2b03160-8125-4dd1-aa23-3736b3206742", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Timeline organisation/UI complaint, not finding a specific photo"}
+{"id": "play_1d4418da-39b2-449d-9635-168788ef86ab", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about forced Ask AI feature, not a failed photo search"}
+{"id": "play_3bc80d31-b164-48eb-9e8b-87434b2830be", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping complaint; no specific photo-finding failure stated"}
+{"id": "play_06426117-27f3-42d7-99ac-e46d7ea74108", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Timeline/UI layout complaint, no photo-finding attempt stated"}
+{"id": "play_876241fa-7b6a-4397-9109-6efe91fa15c8", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Location search now returns random results after update"}
+{"id": "play_15ccb136-d001-47f5-a178-d3ab273efe91", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pet face grouping/organising complaint, not finding a photo"}
+{"id": "play_291eae19-e3e8-4385-b216-755e1833843c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about resurfaced featured photos, not search failure"}
+{"id": "play_9877a4c1-3ae9-4b1f-bf7b-98a1145a4eb1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI, sync and deletion complaints; unsynced media issue"}
+{"id": "play_ee5b354e-05b2-487a-97fe-d301001978a6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Missing photos and organising screen complaint"}
+{"id": "play_6136fcdd-0b62-4fc8-a76b-28b1c539f616", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Struggles to find pictures; search doesn't cover unbacked-up photos"}
+{"id": "play_d744e3bf-2918-435f-88ed-b1bb1c09e232", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "New viewing mode made browsing to find pictures harder"}
+{"id": "play_3ba60373-f35a-4093-9aeb-ffed310f213a", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "One-word search now gives AI conversation, not photo results"}
+{"id": "play_f9fb26b8-db29-4f6c-8f52-5e807b1e15a7", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that finding photos is really hard"}
+{"id": "play_dfd4cc5d-2104-43c6-9ee4-3c22855c16b6", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Fast scrolling only by month, complaint about browsing"}
+{"id": "play_9451b5eb-b9a3-41f9-9a7f-e3e070ade53a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Missing jump-to-date navigation for locating photos"}
+{"id": "play_66092e17-44d1-4f66-b7f0-59e48f222c36", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Layout change made visually scrolling to find photos harder"}
+{"id": "play_0dc4df4e-d1c7-4e0c-9389-bfe5cb84fa0d", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Scrambled face labels made people search void"}
+{"id": "play_8cccaca2-0637-40fc-8b1a-a2154f2dbddf", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "No option to search by name or person"}
+{"id": "play_b74e8456-1b62-492a-a8d8-5a3b50d5340c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Screen recording missing, likely not saved or synced"}
+{"id": "play_300e06c6-116d-4c94-8785-4dd5f5d0d455", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Erased and unrecognised faces make searching by person harder"}
+{"id": "play_777871b0-6538-4c47-8ad0-c043b22df426", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Calls search almost useless; scrolls for hours to find photos"}
+{"id": "play_c3000ec1-d2e8-4cf9-b807-0d35543ae4dd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Finding an album to add to, not finding a photo"}
+{"id": "play_20031183-9f1c-45b6-ab9e-fd75df41ac6d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album selection complaint; photo search praised"}
+{"id": "play_1f18ea8d-b74b-46a1-a6c0-32553358e791", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Browses chronologically; can't find album photo without remembering date"}
+{"id": "play_d70e6685-c64a-441f-a25a-1e2254bbca07", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolls through categories; takes minutes to find photo"}
+{"id": "play_797e9da0-e6c1-4d81-8129-6fa5a0b2b024", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "States finding photos is counterintuitive; no search attempt mentioned"}
+{"id": "play_b438b4f8-317e-4f15-b035-b90da70efc6e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Difficult to find photos across cloud/device locations; no search"}
+{"id": "play_f93e8d59-b548-4dc5-8149-3a488d7592c6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organising and moving photos difficulty, not finding photos"}
+{"id": "play_cc1dff73-6c38-48f3-8fb2-86bc4b4684a1", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Saved photos buried hundreds deep; must scroll to find them"}
+{"id": "play_fbd08b8f-4956-490c-b82a-2c516197c2fd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; album alphabetical lookup is a feature request"}
+{"id": "play_40ee14f4-f5a3-4beb-9944-11c5417bbe15", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says mixed photos make finding old ones hard; wants folder browsing, not search."}
+{"id": "play_e70e090e-d32b-44df-8327-0c4144c77c23", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find stylized photos; must scroll past oldest-first order."}
+{"id": "play_de324e39-dbfb-4135-94b6-8846c5cae5fa", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Airplane-mode photos get wrong dates, so they're hard to find by browsing."}
+{"id": "play_0d50c0a6-f898-4461-ba2b-3b99d925de37", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint is about album organisation, not finding a photo."}
+{"id": "play_339daa63-f758-4aac-8e4e-be7cfe4aafea", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Random directory order makes finding photos impossible; says AI search is useless."}
+{"id": "play_d77475e7-6792-40eb-b9ec-87cec6b3f0bc", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Downloaded photos saved somewhere unknown; storage/location issue, unclear library retrieval."}
+{"id": "play_5191a864-307c-4cad-9084-77c47828e6eb", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolls for minutes through folders to find a portrait photo."}
+{"id": "play_f13e37b5-1504-4977-a817-70ee5e42b70a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find one picture browsing through 50 auto-made albums."}
+{"id": "play_e141c3f2-4242-47f3-a6f3-7d10f4f058fd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Backup issue resolved; search mentioned only as praise."}
+{"id": "play_1d0d8003-437f-4a38-a802-3a531cba9913", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about moving photos into albums and duplicates, not finding."}
+{"id": "play_3e7972aa-9e2e-4c29-8717-0a501916ea9a", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Can't find a specific cake; wants tags because descriptions aren't searchable."}
+{"id": "play_8278b8ab-5f90-406c-98e0-c13ba7594c5d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolling back to 2016 takes 45 minutes; no folders to browse."}
+{"id": "play_4655a9e9-cabd-4f44-8c5c-97a2fae6b3e8", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Browses collections, can't find photos; no search used."}
+{"id": "play_9ec8e1af-f9d3-4c21-af98-8359fab390bd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album sorting, scrollbar and tagging requests; no failed photo finding."}
+{"id": "play_7f7c01fd-c270-4a49-acde-6400a7c0d09f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature request for labeling and storage comment; no retrieval difficulty."}
+{"id": "play_a3c92672-e76a-44e1-86ed-c9ac82a2fb9e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Near impossible to find anything; wants recent tab, no search used."}
+{"id": "play_17ac9d9d-87b5-43f4-9313-c8f367c844fb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album organising and moving complaints; doesn't state finding photos is hard."}
+{"id": "play_03572e1d-693b-494a-beef-6edb83c83bd5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mostly praise; tagging wish is a feature request without stated difficulty."}
+{"id": "play_229ac33f-92b4-4a05-b67d-48f4fb6de845", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Cumbersome to find photos via folders and clicks; no search used."}
+{"id": "play_7acd9717-224b-4eee-bedd-e87d55e9c096", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about Memories resurfacing and slideshow, not locating photos."}
+{"id": "play_c43d4929-65e0-42e2-a846-48e8186ce6ef", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about Map feature UI change, not finding a photo."}
+{"id": "play_17007689-9da1-44a3-9bf8-aa4060a29ebb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for face grouping plus a question about reassigning faces."}
+{"id": "play_1051ec65-280e-4edb-a7c7-8bb290631abd", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Automatic arrangement makes their photos impossible to find; no query described."}
+{"id": "play_acc8a967-43e7-4e0b-bf5c-902b0346ba2a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mainly album organisation and storage complaints, not locating a specific photo."}
+{"id": "play_d2346e51-c045-45cd-8b57-2b323274a811", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Folder and album organising frustration, with missing photos; not search or finding."}
+{"id": "play_35a752c7-bff2-4081-b5c3-2caebdd04894", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about people section showing exes; not about finding a photo."}
+{"id": "play_913f7358-c464-4c56-afd1-48911c9f1c11", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise plus a feature request about highlights resuming."}
+{"id": "play_f6b0dbeb-71fd-42d9-8843-70f8d78300f5", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't sort by date; wants to scroll and find pictures."}
+{"id": "play_24ecf46d-bf42-4a4a-ade8-c8f38985df54", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Sync counts, duplicates, editing and sorting requests; not about finding photos."}
+{"id": "play_4fa3dfee-9a60-4ed8-9f5b-e60edfc52fc1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI and sharing link changes; shared photos aren't their own library."}
+{"id": "play_ab784395-e548-4fce-8925-f4b43ccafcd8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Downloaded files not appearing in other apps; not locating photos in library"}
+{"id": "play_4db22f91-e85e-4f77-bd3d-70aa78233845", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for backup and search, no difficulty"}
+{"id": "play_50b4f7b9-a99c-440d-a7cd-49af7a542c9a", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search words often return no results; wants tags to find photos"}
+{"id": "play_75fe7b73-ab29-4ebc-8a85-1cf51ce71217", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find saved edited photo in feed; browsing, no search"}
+{"id": "play_a3069e79-4d81-4f22-a656-3e717ef36e5b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pure praise, search works well"}
+{"id": "play_70ffbfa5-2555-4cc8-8024-1fd9d4f10b32", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search and sorting, no difficulty"}
+{"id": "play_82cd950e-856d-4e5e-9991-8b3f16546040", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Auto-moved to albums so can't find them; no search described"}
+{"id": "play_0985de2a-677d-4227-b935-9e9374af0c85", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Wrong gallery dates force scrolling the whole gallery to find photos"}
+{"id": "play_0772eb08-f4ab-48fa-aec6-7fcce3fe4f34", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Export, folder scattering and missing pictures; not finding existing photos"}
+{"id": "play_8561d786-ee6f-4e22-aa99-f436914475ea", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "New photo search called terrible; wants classic search back"}
+{"id": "play_9433bad8-e2bb-4afe-8fbc-6fad24077300", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Update made search bar and library hard for finding photos"}
+{"id": "play_2f8530cc-50c5-4042-8eed-a77b6f50820f", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll endlessly to find edited old photo copy"}
+{"id": "play_f395461f-9478-4d29-ad93-e246f24a443d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Impossible to find anything; no all-pictures folder, browsing folders"}
+{"id": "play_5c67cb75-f202-49d7-82b1-928dd7d50d04", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos not showing and ordering/bugs; missing photos, not finding"}
+{"id": "play_5270ecd1-609f-4eb5-afb2-c2226ab70e79", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album folder organising request; search praised"}
+{"id": "play_04bd0729-2a96-4aa0-b96e-5b3f9c9f6944", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Missing photos due to account; edit-saving request"}
+{"id": "play_6426ab53-594f-4121-a12b-24f04aab3868", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for finding; complaint is about suggested archive/delete"}
+{"id": "play_526460d9-f291-4da4-b8d0-4413a57c1ee1", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolls forever to find edited photo grouped with original"}
+{"id": "play_c5e8c111-c439-4bed-9658-1fdafec7ae2c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Couldn't find shared album after update; browsing UI"}
+{"id": "play_676e40ca-04b4-4cc4-b8ab-e86950fa46ca", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "States sometimes hard to find certain pix; no detail"}
+{"id": "play_e28abb0d-a402-4036-af55-fe04141267b4", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Without tags or categories, photos are an unfindable massive stack; wants browsing."}
+{"id": "play_595375f6-d2ac-491e-a89f-1de25031a23a", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search doesn't handle animals, places or food, only people and events."}
+{"id": "play_53c39ad2-0918-43a1-8289-7169b8f3826a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll past thousands of photos to find a picture."}
+{"id": "play_7c828280-52d8-4f34-a958-926c9b6eac6b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos not in albums get lost in the main feed, unfindable."}
+{"id": "play_174b5949-01b0-41a0-8717-a473e7e8daa6", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "States can't find anything easily; no stage detail given."}
+{"id": "play_ff5d963a-60bc-43da-bdea-623cc092c8f1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping errors; doesn't say finding a photo was hard."}
+{"id": "play_2b001792-7375-4670-be44-9e16a6f334a2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search takes so long they give up."}
+{"id": "play_37e3e702-8312-4eb4-9fc7-89efbbd5b2ee", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaints about collages, Memories and UI, not finding photos."}
+{"id": "play_0e632e96-6b9d-47ea-ad11-d5c265c7b70f", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Can't find images even when told where to look."}
+{"id": "play_08cbc96d-b35a-4227-b923-45893e43d865", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching for dogs gives hit-or-miss results in huge library."}
+{"id": "play_b3c950e4-46c5-4f7b-a5ef-578f8c99d0bf", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI thumbnail size and sharing complaints, not finding photos"}
+{"id": "play_40ada23d-73fc-4bdd-ad59-45ab2d2ca2cc", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "States search for specific pics needs improvement; general search complaint"}
+{"id": "play_648d4180-3bad-4a7e-ad63-a2c266629b0d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Library/folder layout UI complaint, not clearly about finding a photo"}
+{"id": "play_b03266c8-b3b2-4ad2-b8bb-5b10931c1491", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Simple keyword searches sometimes return nothing or wrong results"}
+{"id": "play_46cba0b0-2f1d-490b-a6aa-2227bd715063", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Backup flattened folders, lost albums; organising complaint, not finding photos"}
+{"id": "play_cae35590-b814-4126-97d0-e7dc2ee4e77f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise plus missing auto-albums/collages; no retrieval difficulty"}
+{"id": "play_ef0d1a43-c75b-4dbf-9963-f4715dbf5bdb", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Removed people search made pinpointing photos by person inconvenient"}
+{"id": "play_850eba9b-fe94-4303-b685-b720f9e6d154", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pictures missing from the app; missing photos, not retrieval"}
+{"id": "play_a85c65ce-e5c0-45b2-9c2c-07a251c28ccd", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Wants search to understand GPS location queries like city or landmark"}
+{"id": "play_886cea83-487d-4342-b8fc-589858905ad7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; complaints concern comments and face naming"}
+{"id": "play_f49a20b7-e24c-4401-8d6c-b5a11d758099", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "No album browsing in other apps; must scroll hundreds of photos."}
+{"id": "play_59439fd8-27b8-46e9-b3ca-7fd2f8b64acd", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find what they want; 'dig and dig' implies manual browsing."}
+{"id": "play_21e82faa-1f28-4edb-8769-e205251b4cf9", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Albums not imported; must sort through many pictures on main page."}
+{"id": "play_ec60195e-76ab-4f27-8d9c-3b08ccaab6f4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Shared album transfer, Instagram sharing and organising complaints, not finding photos."}
+{"id": "play_e4ff483a-dd50-4ef4-9cc4-ba470562e170", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "States it's really hard to find certain photos; no stage detail."}
+{"id": "play_2b7854ff-0c1a-40c6-be51-a630fd460863", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "No albums, so must scroll long periods to find pictures."}
+{"id": "play_becd994d-5853-432d-a720-532f69c3440e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Sort feature request aimed at deleting duplicates, not finding a photo."}
+{"id": "play_430f2cb1-d5aa-453b-a81d-07b18da26702", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Face recognition misses photos, making person search results incomplete."}
+{"id": "play_cc691093-ba6a-49bc-b9ce-92dd5da5f41e", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search no longer returns results matching descriptive filenames."}
+{"id": "play_2c904ac6-8c92-410f-8852-05b0e99fef7a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mainly missing folders and album organising/visibility in other app."}
+{"id": "play_e3051164-6d6c-4882-ab5b-ae37a09e0710", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says Gemini search does a poor job and wants to opt out"}
+{"id": "play_d7351b06-a237-4ad2-8e14-b478bd634fa9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about sync and storage change, not locating photos"}
+{"id": "play_7beb8fb4-389a-448a-b96e-3ca2564c86b2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Albums not synced, must hunt manually through mixed photos"}
+{"id": "play_d651e1ca-df78-4126-80c6-a15f8693b5dc", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Navigating folders to find a specific photo is painful"}
+{"id": "play_b9aafd10-7a41-42e1-be04-aea721573a7b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Month-only scrolling is useless for finding vacation photos"}
+{"id": "play_56a7cab4-a747-4108-b3e7-a2b5a9675f32", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photo removed from album is almost impossible to find"}
+{"id": "play_c2075aac-b83a-4080-ac70-cb72d3f79a3c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must hunt through albums to find where photos were saved"}
+{"id": "play_b1794567-bf7a-4c0f-abe4-492d5a1cd8e4", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search refused a reasonable request to find photos"}
+{"id": "play_75bd87b6-6615-4a6f-9f40-763a53043223", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find anything, scrolls duplicate folders repeatedly"}
+{"id": "play_c8fed71b-512c-442e-85f0-9243e37dbb2b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't browse folders, chronological scrolling makes finding photos hard"}
+{"id": "play_02163813-25e4-4462-833e-09c0c7d3b387", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI/auto-album and display complaint, not a failed attempt to find a photo"}
+{"id": "play_4cf70b7b-5ddc-46f0-9b87-9c588aeae4fb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Date sorting and disappearing photos; organising complaint, not retrieval"}
+{"id": "play_7807285d-245c-44d3-81df-150809bba2df", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searched 'bugs', search missed the praying mantis photo"}
+{"id": "play_7615efb7-71e5-48ef-a219-1ffe193f2193", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search ignores typed terms and tags"}
+{"id": "play_d3149ed0-1ebc-4db4-ac39-89f40ace944d", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search never finds the photos they look for"}
+{"id": "play_eed104f3-92b9-421c-b22b-7d99658f29b5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face-group search gated behind backup; storage/pricing complaint"}
+{"id": "play_19002e83-c8a7-4c2d-b256-099bb9b250c2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Search gated by backup/storage; storage and pricing complaint"}
+{"id": "play_8a14212c-87ae-405b-b649-a7a42a6bd8b4", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos split across folders; must dig manually to find them"}
+{"id": "play_34f2912c-df30-477a-a2c0-0837d0318315", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing or not synced to phone"}
+{"id": "play_a9f20c45-4e9a-4704-b468-e12cedf3acf6", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Albums lost after backup, so finding photos is hard; no search"}
+{"id": "play_f2f71e20-d840-4d62-be11-d97a2044c920", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Albums scatter photos; hard to find one, browsing albums rather than searching."}
+{"id": "play_76487b1b-f8c4-41e9-924d-31da9fa96846", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Editing/save-as-copy complaint; no stated difficulty finding a photo."}
+{"id": "play_d256346b-359f-4097-84fd-ef4105f24c9e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About auto-created collages/animations and notifications, not own photos."}
+{"id": "play_9b1ba602-06cd-4cb2-8d62-baf71311bf66", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "No search when picking images from other apps; useless with thousands."}
+{"id": "play_29465ed5-02b6-4bb6-9ca3-91caf7675501", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos not shown in app; missing/not synced."}
+{"id": "play_9ccdbaa5-c348-4e44-b699-fabd4e3a4b35", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping wish, praise, and old phone folders not synced."}
+{"id": "play_cbdf6aef-f475-4034-935a-e0090350bf9b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Cannot find search bar to search photos, so cannot use search."}
+{"id": "play_51d1a8aa-880e-4d6b-a9f3-8af8a27a7549", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Merged folders and stacking make files hard to find; browsing."}
+{"id": "play_b2b0a78d-dc39-436b-bf94-adaa634f4479", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Messy folder navigation makes finding the photo hard; browsing."}
+{"id": "play_ea392c15-c6ed-440a-b731-c854b05a7a5d", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search no longer recognises UK English words; misreads queries."}
+{"id": "play_b73c565e-5dfc-47f3-9345-7cb8ec390974", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Simple subject searches fail and return nothing."}
+{"id": "play_3dbd60d0-21c5-418a-a9ff-3ee393a1aeaf", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search ignores photo description text; can't find by it."}
+{"id": "play_55cf1adc-7e39-48ef-aa6d-00e79c2dfaa5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search; duplicates complaint is not retrieval."}
+{"id": "play_3b1f249f-fe85-46be-976f-b96a40ab8591", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Photos not in albums are hard to find even with search."}
+{"id": "play_57c6ed5f-c8b4-44f0-ae97-77fc5b3cfdf8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; no actual difficulty stated."}
+{"id": "play_667c469d-31f5-4124-a6c0-c0fb15cfe43d", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching by entered description doesn't find the picture."}
+{"id": "play_75c014f1-31fb-44dd-abd2-d4dcf5b32667", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Couldn't locate new photo while browsing; it was stacked."}
+{"id": "play_f156a606-81fb-41c5-866f-1530b2bc8872", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague finding complaint; mostly praise, editing and integration issues."}
+{"id": "play_a716e986-4664-43a4-aee3-56d470e5190e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI redesign complaint; no specific failed photo search."}
+{"id": "play_0b99ca42-de47-41d5-ba57-0b28419a3554", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing or not uploaded, not a retrieval failure."}
+{"id": "play_a9a64f11-cd01-44bf-a672-4a06f366432f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Gallery/album display and settings complaints, not finding a specific photo"}
+{"id": "play_d2d9d459-74ab-48d3-9d9a-5ec50fd71625", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Specific keyword search returns unrelated, unordered results"}
+{"id": "play_dbc315f7-8ce3-4974-a229-7f34d19683bc", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Wants instructions and albums; no stated difficulty finding a photo"}
+{"id": "play_16ec5681-4ec0-44ce-8219-be1e09e3f2cc", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about backup, album download and design, not retrieval"}
+{"id": "play_f757f512-77d8-4927-8068-f94b977300a9", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says keyword search no longer works for finding pictures"}
+{"id": "play_588458e1-d84f-4ee3-915b-e77ce4f0c10b", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Face grouping fails, explicitly making photos hard to find"}
+{"id": "play_6f475b0f-4b76-4432-851f-bf3dfc6dc4c6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Wrong display dates; no stated difficulty finding photos"}
+{"id": "play_961db059-8b33-4ec2-9f26-497c470d07f3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Dislikes search update as complicated; no stated retrieval failure"}
+{"id": "play_2a0c925a-e9fb-477d-a236-267de37ba58b", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Edited photo doesn't appear in search results"}
+{"id": "play_7de7a300-5972-4a04-a9ee-43b6555064b8", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Can't express 'not in an album'; hard to find even with search"}
+{"id": "play_a2ac8520-84df-475c-bacd-7e5078560201", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about organising and Drive migration, not finding a photo."}
+{"id": "play_e791a424-9051-4295-b9af-05cbd0c07476", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Backup and sync failure with photos not loading, not a search problem."}
+{"id": "play_ccc8c5b9-24c8-4512-96df-a0ee11e1cfda", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search results are far fewer than before for the same searches."}
+{"id": "play_be9bcf07-25e3-40b9-9837-66efce64e15d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature requests; vague 'improve search' without a described finding failure."}
+{"id": "play_42fa8db6-f7e3-4908-80ad-a57730aab515", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Unsaved AI edits, which are not photos in the library."}
+{"id": "play_77e757a5-ef80-4832-bed6-5fe13e156e3d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing or not synced after a device change."}
+{"id": "play_3262f5ee-e968-4201-8d5e-034cec60d606", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find photos; calls search garbage and can't locate the people section."}
+{"id": "play_2c2deb93-fd99-4c12-932d-ce4dee1b1918", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pictures missing or out of order after update; not a search problem."}
+{"id": "play_375960f8-cc4a-4ae9-925e-cc524b450324", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Import loses albums, so finding specific photos means scrolling thousands."}
+{"id": "play_78b75bce-0ae0-4ea5-87f8-5280cc57439a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find new photos because they land in unknown folders and categories."}
+{"id": "play_a17e38cf-6ad6-45c2-a805-9c70e93453d2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find pictures; must browse auto albums instead of searching."}
+{"id": "play_e36901ac-981c-46fa-8ac6-6a0ad383bb9e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolling by slider to a date is imprecise; no search used."}
+{"id": "play_cdaea080-a521-42e0-ad14-d5950294fa2a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mainly editing, rotation and archive-delete requests, not finding photos."}
+{"id": "play_d4c08e83-6f0c-473a-b0f5-bb71a5cca5b1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise plus album connection error and feature availability."}
+{"id": "play_d8332a38-c0a2-4275-a106-2599d416ba90", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Unclear whether photos are missing or hard to locate; no search detail."}
+{"id": "play_e9b63d89-a84b-423d-8c83-b45fb08c20e5", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Hard to search for single files without knowing the added date."}
+{"id": "play_dcf10f3e-4254-4e85-ba04-7e39fd9f9108", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About the Premium Prints auto-selection, a printing issue."}
+{"id": "play_15ed09a9-8ea3-4852-90c4-d74033db9c53", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Browsing a month-only ordering makes photos hard to find; no search."}
+{"id": "play_009aaa76-518b-455f-8cdf-d953d9b7a929", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Can't find a composite-creation feature, not a photo."}
+{"id": "play_22e42214-df61-4dde-8f40-9a95ed82806a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find a particular photo on the main screen; asks for pinning."}
+{"id": "play_df53f598-b53b-4b38-bc17-e9c3079b2fb1", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Misdated files force manual hunting through other dates to find them."}
+{"id": "play_2ca27027-c0ba-46b6-9044-be4837ea88ec", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise and backup feature request; recovered files, no search difficulty."}
+{"id": "play_24c23ea3-9e49-45c4-b225-e44fb551cdda", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Cannot search by date; says retrieval is a hassle."}
+{"id": "play_ddd19fb6-1c4e-4056-b1f1-677d4d0fbf02", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding specific photos takes forever without self-made folders."}
+{"id": "play_493bcbc4-cb86-400d-aee7-76284c943090", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature requests for tags and faces; no stated retrieval failure."}
+{"id": "play_3d3e80b8-f58a-4cda-ad37-6988a5a083fa", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face labeling, editing and Drive complaints; no specific retrieval failure."}
+{"id": "play_38938b00-0ae7-4152-aa77-4f2261031b33", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search barely works when finding a specific photo."}
+{"id": "play_71518edd-90a0-479a-9428-b46717499bd0", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Simple search term like 'people' returns empty results."}
+{"id": "play_a9c5e27d-00d6-4559-ab37-ffaeb266668d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Arbitrary storage order makes photos hard to find by browsing."}
+{"id": "play_09440a0f-7284-4626-a98d-9a211531f9b7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI layout, album sorting and organizer requests; no failed photo search."}
+{"id": "play_cecbfb97-0321-4152-92da-b4d3505112af", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Timeline/sync bug with misplaced photos, not a retrieval attempt"}
+{"id": "play_843344a6-0d23-4c6d-9ab4-e75a185d102b", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search returned random photos unrelated to the query entered"}
+{"id": "play_86d35347-d5fc-400b-a2a1-0559d2c7335d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature request about locking photos from archiving"}
+{"id": "play_f965c449-2440-4e2b-b826-9f77d87fbf6c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find photos; has to browse different folders"}
+{"id": "play_5c9bf9cf-faf0-4367-bcec-c681c2b5442e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find photos; browsing folders and layout, no search used"}
+{"id": "play_f9622510-78e6-4978-9b6e-33da28095a49", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "App crash on scrolling; stability complaint, not locating a photo"}
+{"id": "play_05b6579d-4599-41aa-8e46-f4d02a4baab2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album navigation and backup prompts, not finding a photo"}
+{"id": "play_40fbe596-d755-47e4-9d8d-932abb6c1bdd", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Cannot use search after update; search access failing"}
+{"id": "play_8da6bb09-2f80-406c-abbc-5818be35a3a3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album sorting and rotate gesture requests, not retrieval"}
+{"id": "play_efa84a21-39d0-41f3-9bff-44fc42f4584d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Takes an hour to find a photo; wants sorting/tagging tools"}
+{"id": "play_725a2457-cb06-4b26-ba77-e4d802c990c2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Browsing scattered location albums one by one to find photos; no search used."}
+{"id": "play_6ee47a5d-4ada-498b-9521-8590f958a4f7", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Typed exact file name; search failed to find the photo."}
+{"id": "play_2cc82d56-00e4-47e0-94ee-01f410e67d1b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about shared albums UI access, not finding a photo."}
+{"id": "play_b1025650-3a4f-4542-a3d5-58e8f4c24e21", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature request about shared albums, not photos in own library."}
+{"id": "play_da44aff6-602b-493a-a5fc-f697f06965de", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for improved finding; desktop app request."}
+{"id": "play_62ae43a5-0bf6-4dc0-83e2-dc70056c1731", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Date overwritten when moving photos; organisation complaint."}
+{"id": "play_82bd1d07-90a1-40fb-8db7-ebbcb7bb996a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organisation complaint about edited photos moving folders."}
+{"id": "play_0f840096-2252-4404-9d58-3cfe427bbc27", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't locate non-camera photos by browsing after UI changes."}
+{"id": "play_36342e02-0872-4ac9-a900-3fb86d0ebc8d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping complaint, no stated difficulty finding a photo."}
+{"id": "play_704bd398-f9e3-4a61-b141-baffc96f4a7d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI navigation complaint; back button behaviour, not a retrieval stage."}
+{"id": "play_4b381227-643b-4240-9eec-9caf5a58d3c2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Lost albums and missing photos after transfer; mainly organising and sync loss."}
+{"id": "play_c70d884d-4dfe-4139-bae9-16703d07ef0a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos disappearing or unopenable; missing photos, not search difficulty."}
+{"id": "play_2e59f1cc-6999-4575-bbe9-299863c6a027", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find photos because folder organisation is lost; relies on folders."}
+{"id": "play_46de594c-a099-4700-9000-0a1dd65813ed", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Says the AI search can't find the pictures asked for."}
+{"id": "play_61965c3c-8dfa-4834-b742-9390fe743dd9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises date search; only complaint is incorrect photo dates."}
+{"id": "play_ff667bff-6e3f-44bf-9f38-de23300501e4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Sharing organisation and navigation request; unclear retrieval failure."}
+{"id": "play_7fbb5df4-f856-4953-9d2d-4e818d581b8a", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search got worse after update; can't search photos seamlessly."}
+{"id": "play_a8066967-95ac-4fc4-bdce-17bdeb7cf69e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos recovered; only a mild navigation complaint, no retrieval failure."}
+{"id": "play_f5ea46aa-0508-4f57-b30b-62fcd759f9cd", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Timestamped photos buried deep in camera roll, hard to find by scrolling."}
+{"id": "play_60fc451b-154c-4557-87bd-7b29ebfe4cff", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Muddled complaint about sharing, backup and folders; retrieval unclear."}
+{"id": "play_36115dd5-91c0-4a8e-b94c-a0b051984122", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search for tags, places and people fails to return matches."}
+{"id": "play_37f3845a-c17f-49a5-9c1c-92769b5b086c", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search no longer finds photos of signs."}
+{"id": "play_8acabf4b-d2d1-41c3-a5f0-ccec5f37766e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Unclear missing-photos complaint with no search or browsing difficulty stated."}
+{"id": "play_35459918-16ff-420e-8c5d-314273a641f9", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finds the AI search useless for date search and rejects it."}
+{"id": "play_089c69aa-ec88-41c2-b61b-39a8b1a5b90e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing or deleted over backup and subscription, not a retrieval problem."}
+{"id": "play_95f80d59-6813-4aba-9051-41bf9f0f5c6f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature request about album search and sorting, with praise."}
+{"id": "play_2b99a589-dce5-4acb-9047-3bb0562720fd", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search never finds photos, so they scroll everything."}
+{"id": "play_80ebec41-12f4-4cbb-a5cf-3b8d223d92a3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping problem with no mention of finding photos."}
+{"id": "play_2eabbeea-364a-445b-b34b-70881cb64996", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search for photos of people no longer works."}
+{"id": "play_616abd0f-8ba4-429c-88bd-9d8f65281ef7", "is_retrieval": true, "failure_stage": "3_evaluation", "reason": "Relevance-ranked results make search unusable; wants old search back."}
+{"id": "play_f2b511c3-a910-42c4-ac40-4e5132dd1567", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Duplicate removal and date restoration request, not finding photos"}
+{"id": "play_60b9e928-9dc0-4e6c-a18e-4b8607acd227", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Unclear whether search or sharing error; mainly a sharing mishap"}
+{"id": "play_71d66a90-e2cd-4580-a9d7-ea03987981ca", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature and UI review; search extra step is a UI complaint"}
+{"id": "play_435d5465-34b0-41b1-9bf3-97ac14cec596", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search feature is gone and unusable"}
+{"id": "play_fbccae11-7b2f-485a-ac6b-c7c312e82032", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding photos much slower; AI search deemed horrible"}
+{"id": "play_69fda5bb-b337-450b-b003-5819003b3bda", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Layout and search bar UI complaint; retrieval failure not clearly stated"}
+{"id": "play_ffcbe138-591f-4057-8737-4c3ba6c94ff9", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search requires exact match; partial term 'Google' not understood"}
+{"id": "play_2dd3d74c-5921-40e0-becd-045cdd800396", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Cannot open photos or albums; viewing issue, not searching"}
+{"id": "play_ce327708-6b7f-482d-b856-c8b40ee36ee5", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search results became less accurate after update"}
+{"id": "play_f52cad47-c9dc-4f7c-80fd-2f757d53f35b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Working search removed; refuses AI search replacement"}
+{"id": "play_80eb2b50-a3d7-4ece-8484-15e593a4c0ba", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Image search got worse and slower after the Gemini change."}
+{"id": "play_a329c814-19ba-47c2-adee-1a4e7084c20d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says finding photos is harder; no search detail given. Storage part ignored."}
+{"id": "play_a78127c2-17ea-4965-bac3-0dcf4af13beb", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search feature removed, so they can't use search to find photos."}
+{"id": "play_d99dda25-ca7d-4c7d-9c09-67c1d99cd0c6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Shared album search scoping request, not clearly about their own library."}
+{"id": "play_1cd91aa6-437e-45a0-b5be-add2b9ce2d80", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says you can't even search photos anymore; search is useless."}
+{"id": "play_7e03e880-7330-4195-8942-6ee0d3068114", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search bar no longer accurate after the update."}
+{"id": "play_84c70f2a-3fad-49d5-a78d-acdd26012bde", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "App stuck on a face-grouping page; a UI or access bug."}
+{"id": "play_54e8527b-53e3-4841-af4a-9c9633ebaeeb", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos are now difficult to locate; stage unspecified."}
+{"id": "play_fb7b384b-954c-45b6-9e17-0c24911b3a81", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching a specific dog returns other dogs and unrelated results."}
+{"id": "play_7a80c663-0fdc-46de-8b98-13d13a1f6f2f", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't recall the date, wants to browse by source folders instead."}
+{"id": "play_7b73dee3-1d44-4475-a16d-705851e548f7", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Took a week browsing folders to find screenshots; no search used."}
+{"id": "play_356549c7-382d-4e07-9169-badf26a8135f", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must remember date and scroll; wants jump-to-date to find photos."}
+{"id": "play_4e7b0c57-55fa-46f5-96ab-d4d3c54fceeb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; found the photo without any stated difficulty."}
+{"id": "play_24d4731f-1cb0-404a-8d88-3e5ad7d90446", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Has to go through many folders to find photos."}
+{"id": "play_cf5a6796-f6d3-4f98-8ed1-33266a3ade01", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding photos and screenshots hard due to app's grouping; browsing."}
+{"id": "play_fa6a5a5d-dff7-445f-bfc8-b1be7cb18712", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Keyword search returns off-target images and omits the wanted photos."}
+{"id": "play_1b4cd521-3a11-403d-9203-7456412d0add", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "App freezes when browsing to photos over a year old."}
+{"id": "play_585a3be1-497a-4ca6-92da-005a78a7b989", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search doesn't match specific typed words when finding a picture."}
+{"id": "play_86366229-3b2d-4742-8311-652a511c130c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Split-off screenshots make finding things infuriating; only flicking through."}
+{"id": "play_c8c256d0-9440-4bd1-ae64-e1cbbb3104a4", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Wrong date sorting makes browsing fail; later search also misreads."}
+{"id": "play_cf2ecb93-64f7-4b99-a29a-492ccff2fb82", "is_retrieval": true, "failure_stage": "3_evaluation", "reason": "Search returns way too many wrong results"}
+{"id": "play_a6c5497e-799f-4d2d-a750-a9b434aedd90", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Duplicate detection feature request, about deleting not finding"}
+{"id": "play_c0690574-6eb7-433d-b289-f1ed9ce2203a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find saved picture; wants directory tree to browse"}
+{"id": "play_4776d8a8-1ae4-4089-8e87-6746a1b74dff", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "App not showing all photos; missing/unsynced, not search difficulty"}
+{"id": "play_3961627c-3998-47b3-ac89-f9061b124cee", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Can't search for liked photos in shares; no query available"}
+{"id": "play_a8ab62c4-b241-4b39-9028-94b42afeb5ce", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't easily find older photos by store location"}
+{"id": "play_a897ecb1-1c70-4b15-abaa-284d3ed89308", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search tool doesn't help or work at all"}
+{"id": "play_6bd92ba0-c226-45ad-a770-47310800a75b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Digs through timeline to find specific picture; no search used"}
+{"id": "play_3fd8d619-176e-4621-8866-6f2a7b6b3932", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find edited photo again, saved elsewhere"}
+{"id": "play_2794ecba-6135-4821-94ca-f5abb719cd53", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find favorited photos; no search attempt stated"}
+{"id": "play_b52c40af-317e-46d3-8443-b2cdf3e217df", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint is lost folder structure and no warning; no specific retrieval failure."}
+{"id": "play_3755a45e-d37c-40c9-9cf6-fa24bcfdc646", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to locate a picture via albums; recalling where it was saved."}
+{"id": "play_f57c7e60-1e6e-4b77-86b8-73b72a2c9c3e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Has to scroll all photos to find a screenshot."}
+{"id": "play_011b6018-2b1f-4cf5-b378-d4982b1cd288", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About finding folders to file pictures into, not locating photos."}
+{"id": "play_6afb8984-7cfd-4d2c-b6ee-be321b9fca10", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mostly praise; album organising suggestion, no specific retrieval difficulty stated."}
+{"id": "play_a5c66e71-6811-48ac-9a01-20e05ac901cf", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolls to find recently uploaded old-dated photos due to date sorting."}
+{"id": "play_89692ff9-f5c4-4cc2-9968-75861f9d9881", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must dig through many folders; no single date-sorted view."}
+{"id": "play_eb227922-0fc2-4724-b440-15a4b886cb89", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos disappearing, organising and backup complaints; missing photos."}
+{"id": "play_db1b9597-753b-4b89-b281-cef313cb259e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing from app after update; not a search difficulty."}
+{"id": "play_12109bc7-d45a-4e25-bae4-24d6a5073e9a", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search limited to app's wrong auto-labels; misreads photo content."}
+{"id": "play_b0aca4bd-04b2-41fc-b939-0be51c1468f1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Update, people grouping and video recording complaints; no specific finding difficulty."}
+{"id": "play_01c7e14f-c146-48e2-8832-ced4669578a1", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Finding pictures takes long; search lacks content recognition by subject."}
+{"id": "play_78c2b071-4cc8-41a4-987a-be3876c83f53", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Request about hidden faces management in people section; face grouping."}
+{"id": "play_ff191d90-c133-4556-83c6-c80b482d3e01", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching a video's subtitle text returns nothing; clue ignored."}
+{"id": "play_67bd8127-7608-43d6-bce2-ebd361ed6b35", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find images; wants sorting instead of typing a search."}
+{"id": "play_308006d4-e4af-49a6-add7-830fff1cc24f", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Takes 30 minutes to find the photo again; no search used."}
+{"id": "play_821c74c5-d9ff-4367-8043-94e69d65275f", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't search; must scroll hundreds of photos to find holiday ones."}
+{"id": "play_7b3f324d-658e-4307-b2a1-0f553028add3", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Forced to scroll thousands of photos after folders merged."}
+{"id": "play_7f31e9d4-1e27-4ba7-8b98-3eef155eac1c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; later vague shared-photos complaint, not own-library retrieval."}
+{"id": "play_205ff846-1a54-46c9-9413-67e5508bcf79", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll 3,000 photos to find one; can't go into album."}
+{"id": "play_add80979-8c91-4156-911a-ca323383747f", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search by face mixes up people and omits some."}
+{"id": "play_8ceb5848-d947-46a1-b7f8-f909ea62f282", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Uploaded video not found; reads as missing or not synced."}
+{"id": "play_a7636046-fda4-44de-b899-7009d8a4bbae", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Word and map searches return nothing that previously worked."}
+{"id": "play_33f33794-fe1d-49de-854e-019152a40fe7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Storage and deletion complaint; photos and edit missing."}
+{"id": "play_f662b019-ba7d-4664-a6e0-3ef183d05f57", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Unrecognized faces make person search fail; forced to scroll."}
+{"id": "play_66859ca9-d0fc-4f76-86e4-ce901299a154", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague post-update UI, upload and sharing complaints."}
+{"id": "play_56ba8445-8c08-4a67-827e-36cb5c99b60e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing in other app's picker; sync/visibility issue."}
+{"id": "play_e9668ad8-cba9-473a-8780-3e18b57b50a9", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search couldn't use partial file names, later improved."}
+{"id": "play_8850602d-27a5-4922-9435-d424164960ec", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search can't use file name or extension; limited filtering."}
+{"id": "play_4a0b681a-aefd-496a-987d-42ed7357b219", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll by date to find anything; no albums."}
+{"id": "play_897d2b1a-0fd1-49aa-a4d0-961d71d0a22c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album/folder organisation and editing complaints; not about finding a photo"}
+{"id": "play_0e988a3e-7e38-4db9-be43-907db94fa4ab", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mostly praise; only a vague remark that search could improve"}
+{"id": "play_1accae32-e302-452f-9a6a-ba44bc545578", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About collages and Memories/auto-generated content, not library photos"}
+{"id": "play_fd86344a-3a5d-4b2a-a1e0-ea12193b30b0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping and album errors, no stated difficulty finding a photo"}
+{"id": "play_397123c4-f901-4b9a-8248-909b2d904ab9", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search for '.gif' misread; returned unrelated images and formats"}
+{"id": "play_a5dfd28c-01eb-4a63-b59d-c40cfc9d9d59", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos scattered in folders; tedious to find one, no search used"}
+{"id": "play_ba3b3e01-4471-4c7d-8378-75d03c658650", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face ID and feature confusion; no clear failure finding a photo"}
+{"id": "play_d7303e7d-b256-40ef-aefe-29bdf1765634", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "New navigation needs extra steps to find photos"}
+{"id": "play_88b62443-925b-4e8d-a512-105b7910aedf", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Update, UI and ads complaints; unclear whether photos are missing or hard to find"}
+{"id": "play_c24ca312-6397-40d2-b0e8-c2e49fd84de3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos show under the wrong date; display bug, not finding"}
+{"id": "play_21e5b681-5705-4b5f-bd47-bbc32007bc1c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find photos after UI change; navigating albums, not searching."}
+{"id": "play_0246eb56-d36a-407c-bb90-43502defb467", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Couldn't locate edited photos by browsing; needed support to find them."}
+{"id": "play_e1e1f6d3-baa0-406a-97b0-ffe24e11eb97", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI/button-count, collage and ordering complaints, not a failed photo find."}
+{"id": "play_a130c578-30ff-48df-9c5d-97fb11c929a3", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Looked everywhere for screen recording, never searched; couldn't find it."}
+{"id": "play_463a6251-b4a4-43e2-a1aa-b092bcfd6466", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Sync reorganisation made finding photos hard; browsing folders, not searching."}
+{"id": "play_9c1b8539-f749-4cb5-baf4-7d08f0d527d6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Memories navigation and share button complaints."}
+{"id": "play_ec0413be-db51-48e0-b1c5-5fdbdd810dc8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Editing and face-group album location; not finding a photo."}
+{"id": "play_e7d49d3c-d9ba-4ec7-965e-e792eb429e8b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Backed-up photos not appearing in app; sync/missing issue."}
+{"id": "play_08f25bf8-ab40-4982-b2b4-b73d7c6b8379", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Date/item search often misses; must still go through whole batch."}
+{"id": "play_8f5129a9-ca40-4f2a-9b2a-0663ec85bd46", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Library not syncing to phone app; backup/sync problem."}
+{"id": "play_4aa09681-c83b-4d74-aa84-66d69f59959c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise plus feature request to tag people; no stated difficulty finding photos"}
+{"id": "play_c86f8b06-1e69-491c-ad18-7177c63d490d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll hundreds of times to find old photos; no search used"}
+{"id": "play_59075cc8-dc6d-4549-a741-4ebb2fbbaf83", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searched 'cake'; photos exist but search returns nothing"}
+{"id": "play_d766ea51-f1fb-49fc-b18d-dd36959e2818", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mostly praise; 'hard to find memories' concerns Memories feature"}
+{"id": "play_17455d37-83c3-461b-8ca6-41d1670ed93e", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searched by words; most picture elements aren't recognised by search"}
+{"id": "play_132f4c7c-d562-456e-926c-4368c6f1e9f6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Editing and face grouping complaints; no difficulty finding photos stated"}
+{"id": "play_cf25d604-3d43-4a49-8ede-31403457a066", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find anything after UI update; no search attempt described"}
+{"id": "play_6ecd8ebe-daa7-4b29-a883-3b438ef09b70", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping complaint; no stated difficulty finding a photo"}
+{"id": "play_e5c03c58-f2ad-4f4a-9900-6d42c8c65921", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album sorting/organising request; no finding difficulty stated"}
+{"id": "play_792f0ad4-1c8a-465b-a8ef-b9e1ace34cdf", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says finding pictures has become a chore; no search described"}
+{"id": "play_e900f4bd-68a3-48c5-a6d4-5bfd1d373b7b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says date grouping and moved photos left some photos hard to find."}
+{"id": "play_5a8ba327-2f63-4e22-8f84-7d87b8c4bfe7", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "States search is poor and often cannot find the photo."}
+{"id": "play_d121f763-be69-4ad3-a546-ea4535cefdf0", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Separate folders make finding wanted photos hard; wants one photo roll."}
+{"id": "play_4fab099d-1707-4376-af1b-ac8e9c051746", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos were in the bin or missing, not a search failure."}
+{"id": "play_3345753b-6503-43b0-a60b-63976dad43ba", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Tagging feature request and sharing complaints; no retrieval attempt described."}
+{"id": "play_fef6bb6a-bacf-4309-9845-50fe88c0e47b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Lost folders mean it can't find pictures and must scroll endlessly."}
+{"id": "play_37ffb97f-5081-476d-a65a-6572e978bc99", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search doesn't use captions to find photos; wants search within album."}
+{"id": "play_3ed8f4d3-5ac1-4389-80bb-fa2d8375c044", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI and album organisation complaint, not finding a specific photo."}
+{"id": "play_06751ae2-4f45-4a0f-b0b6-5f1a3ca063c3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Download ordering complaint, not locating photos."}
+{"id": "play_abcad3c2-cd03-4943-813b-31e8dc54af82", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Poor organisation and folders bury photos so they can't be found."}
+{"id": "play_fdd7e736-0735-4ffc-874d-5fc75e35a835", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Says they can't locate a photo because dates and places were lost."}
+{"id": "play_f0ef83e9-d7bb-430f-bd63-7f392c0e0f7e", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Search now slower and less intuitive; hard to find photos."}
+{"id": "play_7abe4839-6969-4151-9522-eaac36627703", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About downloading and locating files on device, not library search."}
+{"id": "play_e0f57899-1574-4c53-a8c9-20e5f74f1f07", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organisation and tagging feature request; no stated retrieval failure."}
+{"id": "play_601d657a-32bc-4388-9ff8-b72b0a20a52a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Cannot reach search; blocked before any query."}
+{"id": "play_77df5596-86ad-4916-a29d-514b5c01a3cd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise plus wishes and feature requests; no stated difficulty."}
+{"id": "play_03231eaa-4dc2-47c5-8ebd-941e978dde40", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Finding photos nearly impossible; auto tags wrong, so search misreads."}
+{"id": "play_516d3c01-cba2-40c8-970c-f25158999d96", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search doesn't support person plus location combined queries."}
+{"id": "play_4b238c82-3b0e-45fa-af1c-3356b7a3b95f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mainly storage and pricing; vague remark about finding where things went."}
+{"id": "play_7c14e5ec-6095-44f7-8a3f-c85952a5e842", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding edited pics is a scavenger hunt; no search used."}
+{"id": "play_ff1ba94a-90c8-47df-898c-34fe42bff9ba", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint is about sharing photos to other apps."}
+{"id": "play_a1b6672d-2cc1-482e-8887-c2f99df99751", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photo picker and album display complaint, not finding a photo."}
+{"id": "play_d0475d38-3922-43a1-b920-8e3b2cdbdab5", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find backed-up photos by looking in device folders."}
+{"id": "play_a9438a19-6617-419d-a589-1c0fe9352244", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About finding auto-created creations, a Memories-type feature."}
+{"id": "play_4fa37150-dff6-4386-b016-2cfb698b5ae8", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll further to find recent photos after the ordering changed."}
+{"id": "play_e076efe4-770d-47a0-9276-f14950120a0b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Upload, sync and viewing failures, not locating photos."}
+{"id": "play_27bbfc6a-df22-47f5-afa6-63f4d6ebe4dc", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album organising and shared-album features, not finding a photo."}
+{"id": "play_c4b71877-cf1f-4ef2-953f-dff811a0a78c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find a specific photo and has to scroll every time."}
+{"id": "play_447ab478-7518-451f-9fdb-a9992d2549fe", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must hunt through directories and albums instead of the app finding photos."}
+{"id": "play_c294fe38-0b2a-4087-80db-0af709ae66a2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can only scroll, with no year or period navigation to find photos."}
+{"id": "play_132c950d-32ff-4f33-9978-aeb7599049d6", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Says search can't correctly find cat photos; misreads the query."}
+{"id": "play_dfe09143-c2c7-4eae-a0b2-562103afa221", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Missing Lens feature, lag and wrong date display; no finding difficulty."}
+{"id": "play_871eb941-a797-4082-9ed5-6d9addc3a0be", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Date search returned nothing for a date that has photos."}
+{"id": "play_8e30c6ac-0787-430a-9e1e-d5a4b1228b28", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about a removed jump-to-day feature, Ask Photos, editing; not a failed find."}
+{"id": "play_8d78827d-6df6-4404-9086-29dde264b14b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "AI regrouping makes photos hard to find; browsing folders for hours."}
+{"id": "play_87a13676-b58b-487c-abf5-5b8bf2524f5a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Rearranged photos make it impossible to find one by browsing."}
+{"id": "play_3fe87858-e44a-4269-822d-5ab84db8f919", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Calls the search bar useless; it rarely finds files or folders."}
+{"id": "play_1b3d07b7-ca9c-44f9-be0f-c0ed96c7164a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Has to scroll to find misplaced new photos while looking."}
+{"id": "play_3159dac5-9e52-4ec0-afea-b19ff35413c0", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Video clip hard to find; no search attempted, found by chance."}
+{"id": "play_9264db70-4e5c-41c1-98f3-f3ed766dc0f0", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Searches through folders for an hour instead of using search."}
+{"id": "play_eed8693b-8785-4bc3-ae86-246d4b46e85f", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scans hundreds of album covers to find a picture; browsing, not searching."}
+{"id": "play_465afc31-b63d-4ff6-b981-01b69d91e393", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Shuffled order means browsing fails to find needed photos chronologically."}
+{"id": "play_be2a69d6-d69d-4521-8414-85c3fabfa6ac", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About deleting photos and album organising, not locating photos."}
+{"id": "play_3d4b46b5-7be7-4d88-9017-05ebeeeeb29e", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Lost albums make finding things hard; relies on browsing one big batch."}
+{"id": "play_8d94cd7a-a8ee-49f4-8b50-7c1f7ccc5f57", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search never returns anything useful; finding old photos impossible."}
+{"id": "play_55d9c0e0-73cd-4bb9-bae6-5d6f82eab05b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Missing folders made finding past photos hard; no search mentioned."}
+{"id": "play_5ea65afc-cd58-4040-806b-e5ae1bf444f9", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search misreads simple clues like 'dog' repeatedly."}
+{"id": "play_30dfa724-3eae-4978-b363-eac66f7ec986", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos not displaying and app bugs, not a retrieval difficulty."}
+{"id": "play_302c371d-24b0-463d-b31c-2147a1a14199", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing or not backed up, not locating existing photos."}
+{"id": "play_ec30a244-02a6-4ca2-8e3a-14f80addfdf8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Ambiguous PC-uploaded photos not appearing; likely sync issue, so unsure."}
+{"id": "play_337846d0-eb27-4264-b236-be9f53594d98", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Upload date misplacement and empty squares; not about locating photos"}
+{"id": "play_9d89e9dd-3b31-47c8-a0a7-580e61d45e58", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos hard to find; no search attempt described, so earliest stage assumed"}
+{"id": "play_75b944ed-1eed-4233-a49d-42e8c09a0d7e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping and gallery folder view complaint, no finding difficulty stated"}
+{"id": "play_c821ea93-5c63-4333-8226-1c82cbaee392", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolling/browsing by date fails; can't reach older photos"}
+{"id": "play_b14c6fd9-f806-4dc1-953f-00705e8ff6f3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Folder layout UI complaint; about finding folders, not photos"}
+{"id": "play_710253e2-c7d7-4e30-8eac-581f48be3ab3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Says search works well; only a feature request"}
+{"id": "play_f3ef0a6f-62bf-4f44-aee1-9e333f3cda35", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find photos in gallery among many; browsing only"}
+{"id": "play_47c7e49d-3971-4040-b0d3-d91e43d6d86d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Lost folder structure forces long scrolling to find photos"}
+{"id": "play_a7ae2e57-17f8-4393-9905-51e3af6ef288", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague rant; missing/disappearing photos and backup complaints, unclear retrieval"}
+{"id": "play_2b215764-82cd-454c-b754-5142c4868291", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding photos takes minutes via new cataloging; browsing, no search"}
+{"id": "play_b73fd726-9004-4060-9f87-2700d1e6bcad", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague UI confusion; unclear that photo retrieval is meant"}
+{"id": "play_1b66ec3c-5ee6-45a5-b0c6-b08aed56f852", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "States finding photos is difficult; no search detail, defaulting to earliest stage"}
+{"id": "play_f25b1196-a55c-47b3-a4e2-241a9e51250b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature request about people search; no stated retrieval failure"}
+{"id": "play_4a825395-7bb5-49c0-8a25-ad4d5cb9b88c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Couldn't see search bar, browsed manually for 30 minutes"}
+{"id": "play_862bce63-29c3-4249-aeb2-45751bee6ebc", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about month grouping and upsetting resurfacing, not finding photos"}
+{"id": "play_06d553a4-77c4-4f7d-9ccb-1b808bc762fe", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Date search ignores shared album photos; browser finds them"}
+{"id": "play_6e2739b2-e45e-4d7e-a615-aabc93c1486b", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Finding a photo: search box they don't know how to control"}
+{"id": "play_111ba6f2-c28b-4fc7-a977-93cc0baf8aa0", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Source-based folders, no single folder; hard to find photos"}
+{"id": "play_e7fd540e-0e73-4b48-9a21-bfbaf61d31d6", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "No search icon, must scroll to find old pictures"}
+{"id": "play_442fad38-8cbd-4385-971b-d87b282b5209", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Update made finding pictures hard; menu-to-menu album browsing, no chronological view"}
+{"id": "play_0414f731-dc7a-44f1-94d7-a1c79b3fa553", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Map was the way to find photos by location; removal complaint, channel gone."}
+{"id": "play_1ed597a0-08cc-44ba-ad42-6a0640be7932", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search shows random outcomes, misreading the query."}
+{"id": "play_1ec1d167-0a0a-4215-96f3-dec898484f99", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Broken app, face grouping, memory creep; no finding difficulty stated."}
+{"id": "play_77620a2d-fe30-4916-96f8-fe219dab5b01", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Ordering and album display bugs, not about locating photos."}
+{"id": "play_7f21fa19-70e2-41e3-afda-1d2bbf1eb849", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to bring up pictures; browsing shows only a few, no search."}
+{"id": "play_825af193-2c1f-42d0-91b5-35c60e4efa50", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't organise photos so can't find quickly; no search mentioned."}
+{"id": "play_4bafbcae-9524-4b86-a3da-e93f0e9d9c55", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must find each photo by date manually; no search used."}
+{"id": "play_633f6e31-2b00-4406-9293-1385be119685", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Memories and face grouping editing complaints, not finding photos."}
+{"id": "play_a43d8948-3110-41d2-829e-1730e03b8b19", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search can't find a file by name despite a reasonable clue."}
+{"id": "play_67148560-e2d1-4309-9e2c-752aba17e38a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Sorting through photos by scrolling is hard; only 4 visible."}
+{"id": "play_bf46f75f-c93a-4213-8c86-03698790c59c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about restoring backed-up photos to a new device."}
+{"id": "play_9a1571f4-bd02-4f56-b642-2bfc43938542", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Two-person search returns either person, not both as intended."}
+{"id": "play_996972e6-c9fd-458f-8aa8-aff69daa851b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find backed-up photos because albums are separate."}
+{"id": "play_aa707111-9beb-422e-9cb0-0cf96b457d68", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Can't search for pictures of people after update."}
+{"id": "play_5efe620d-5518-4903-8548-986eee0411f9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Post-update display bugs: missing People view, albums, grey boxes."}
+{"id": "play_df04849c-dfbd-4980-a2f7-bb732c01512e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about moving photos into albums and folders."}
+{"id": "play_4940f650-2b22-46d6-8abc-bfa1b903eda9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album organising confusion, not about finding photos."}
+{"id": "play_6f7a4716-7cad-4d62-9fb8-99dcbb7a1b65", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll through thousands of photos to find a recent one."}
+{"id": "play_b7c380f7-4d43-47a8-bf3f-7c20170e5be9", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find photos in a large library; wants tags."}
+{"id": "play_ddafeed3-b585-437b-9c38-323e77600025", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Searching endlessly through backed-up list to locate photos."}
+{"id": "play_f091b389-24a3-42a3-a4f3-b763a2a78869", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about album reordering and resurfacing, not locating photos."}
+{"id": "play_f8a4ef52-5ebe-4d8e-aa9c-4b0a60336c12", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Date-ordered browsing leaves them unable to find anything; no search attempted."}
+{"id": "play_f3aecd7e-6d5d-465d-bc95-29e93e3d6c7c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About lost or unreliable files and duplicates, not locating photos."}
+{"id": "play_0d6a7bd4-7aca-406f-b125-102aa8cb407b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Timeline-only ordering makes finding a photo very difficult; no search used."}
+{"id": "play_aad542b1-6fa4-4b7f-a571-ac1e657a7ca5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI complaint about a moved shared-album shortcut."}
+{"id": "play_0042223a-e36a-4c42-a38f-b9c82f303c70", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Ask AI search fails to recognize words, colors, people, things."}
+{"id": "play_132c5b57-17e3-4fb0-8dcc-2f4fc455fa7e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album-name search and organising request, not finding a photo."}
+{"id": "play_cb2c7b0a-a0c5-49c0-a8e0-33a85b120991", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about file control and organisation, not finding photos."}
+{"id": "play_55b702bc-672b-4d1a-9cf3-d96ed824ef73", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI navigation of albums and options; search is praised."}
+{"id": "play_9606b8da-940d-4621-92fd-fd7998a2f068", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Searches endlessly through the backed-up list; wants albums to ease locating."}
+{"id": "play_a7b23d40-9022-4a87-9c2d-39f580a62e2f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About albums hidden or disappearing, not locating a specific photo."}
+{"id": "play_51a013bd-9248-4554-b058-dfa28bd1c168", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "New search ignores labels, so labeled photos can't be found."}
+{"id": "play_ad88cf93-7f7d-41af-bba9-8960079b8b03", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaints about settings, upload and backup, not difficulty finding a photo."}
+{"id": "play_5ef543d9-7864-4208-ac8b-a6dbacba9454", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Memories/resurfacing complaint."}
+{"id": "play_7106fafe-f517-40fc-bfcc-5480cb221433", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll through everything to find a specific picture."}
+{"id": "play_b6e1bdc5-0e77-40ed-b469-8fd5c5998f6c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Stream layout makes finding photos laborious; scrolling thousands."}
+{"id": "play_0da7d1e1-c280-4b67-9885-69b73d873c9a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organising and album complaint, no stated difficulty finding a photo."}
+{"id": "play_ee4da9d3-2983-493a-af5c-98a2093d6a14", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "States search has not worked for two weeks; people clicks do nothing."}
+{"id": "play_08830846-7992-4a9d-bbfc-e2e54c81f6ce", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping misplacing photos; no finding difficulty stated."}
+{"id": "play_cb5c41bd-f7c5-435a-bdba-7b410a36dd5a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature request for face and album organising, not a retrieval failure."}
+{"id": "play_0fbf40a1-0a5d-49b1-8519-469b5f210cc1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album ordering request and praise; no finding difficulty."}
+{"id": "play_cec9bb9a-eae1-4d24-90b4-ed15b71b5820", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolling through 10,000 photos to find a December 2015 photo."}
+{"id": "play_2522d321-f548-49ff-a4da-8eb74092f313", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that search is poor and labels are useless."}
+{"id": "play_5b56e578-83b3-4363-942f-8ca38e756386", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Deleted photo gone and screenshot backup; not a retrieval difficulty."}
+{"id": "play_32b565e3-6942-4de7-9e36-ca9918b0d0bb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI/navigation complaint about albums and scroll position, not finding a photo."}
+{"id": "play_f06c561e-481f-4e3d-8a4d-54b8f450be29", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Must scroll 500 photos to reach a specific photo."}
+{"id": "play_7cb418ad-d443-4f77-b016-8bd3645d4deb", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find recent uploads because album is unsorted; browsing."}
+{"id": "play_1b6e9663-f3b7-4267-bd3d-8610f33194ce", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "UI redesign complaint about Collections and album navigation."}
+{"id": "play_e9ab818f-5971-4fb6-ae09-2d088a6e2a96", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping/tagging issue, no finding difficulty stated."}
+{"id": "play_0071f2cb-7675-4207-90a4-b413625dee0a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Loading/blank library performance and backup comments, not locating photos."}
+{"id": "play_11b41855-62c9-4c87-829c-9298143ddb25", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping complaint, no difficulty finding photos stated."}
+{"id": "play_99363abe-8be1-4241-bda6-f482828b9a79", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about Lens usability and editing, not locating a photo."}
+{"id": "play_dbd9af39-b245-4550-9085-4985fe7e1956", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Albums, sorting and customization complaints, no stated difficulty finding a photo."}
+{"id": "play_a0d55582-696d-4e51-a218-acb9eb622f6d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Lost folder organisation, must scroll thousands of photos to find one."}
+{"id": "play_afbaa219-e235-49c8-9e47-d9ab4f8c8cc8", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching a name returns all photos, query ignored."}
+{"id": "play_897110cf-4db5-4c9a-a6c4-2a12b413cb5d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search bar removed, forced to scroll to find photos."}
+{"id": "play_320c0dda-d576-4b06-b0ea-ec3c02e4175f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Duplicate detection feature request, not finding a photo."}
+{"id": "play_97026c61-83e8-43b7-b7a9-54f8fd07037f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album visibility delays and sorting feature request, not finding a photo."}
+{"id": "play_a69383c2-ebb7-4b2f-b4fa-63d2c664f8ab", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About For You tab and notifications, resurfacing feature, not library retrieval."}
+{"id": "play_e8f98ea6-529c-41c1-b819-8f526ebb417d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Tagging request and album search, about finding albums, not photos."}
+{"id": "play_75645c57-2f41-426a-984d-06919697184f", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "New AI search often returns no results for reasonable queries."}
+{"id": "play_974a51b8-852f-4f59-a369-29a49449fec3", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Couldn't find edited photos by browsing folders; didn't search."}
+{"id": "play_f2a17c31-1d4e-4fd9-97bd-3b76bdb59963", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Disorganized saved items can't be found anywhere; no search attempt stated."}
+{"id": "play_0864853b-5236-4231-953c-9431e9d76159", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search never works; resorted to scrolling instead."}
+{"id": "play_e942bfa2-9206-4b27-b8ce-69e8c32a90b6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Face grouping complaint; removing from results is organising, not finding difficulty."}
+{"id": "play_caaa62a0-5983-435f-934d-92d86392e4e4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about sharing/uploading and iPhone photo visibility, not locating photos."}
+{"id": "play_f3263900-8bad-4169-9d7a-bae68cebcdae", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find photos after albums lost; says it isn't searchable."}
+{"id": "play_e3ac650d-f0e6-4cea-b591-b9218aacf118", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Memories feature complaint, not finding photos."}
+{"id": "play_d9e93a8b-4cbf-423e-8497-ebc9ed73453b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature requests about select-all and location editing, not a failed find."}
+{"id": "play_67eb0ef4-03c2-4382-846d-b12f0f020f93", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Gemini search failed to locate photo; took four searches."}
+{"id": "play_53bf34c5-0c93-4475-83a7-5c8cdefb1a3a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Albums disappearing and backup nagging; missing photos, not finding them"}
+{"id": "play_32ab4a4a-38fb-4153-b1c4-a910e7af63bd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mostly praise; difficulty is removing a person from a group, not finding"}
+{"id": "play_3f53b5ba-df6c-4a87-87f5-40248c30f998", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature request for duplicate detection, not about finding a specific photo"}
+{"id": "play_f63468cb-d2e9-4245-a26e-78af3079f560", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Scrolling for hours to find photos; navigation difficulty, no search"}
+{"id": "play_69b0855f-283c-47dd-8ce3-a3dc68ec9538", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Feature requests for auto crop and sorting by age; not finding photos"}
+{"id": "play_ca22fd58-c5d9-4d44-b5c8-31d52417a554", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find device folders or screenshots via browsing after UI change"}
+{"id": "play_7f9e8a33-1349-4d68-afc2-f4f7ddb6dc66", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find old images browsing folders; backed-up ones not in folders"}
+{"id": "play_a7caf3ab-dd4d-4c26-a8d7-acf3cc0e259a", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says search is pointless, so scrolls instead"}
+{"id": "play_d6efad92-3d77-45f4-8e7b-1550b35f3688", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "AI search broken; misunderstands queries, general search failure"}
+{"id": "play_ba862cf7-9d99-4980-b57b-7d9ffaf0d4c3", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that finding anything is difficult; no search attempt described"}
+{"id": "play_417d046b-dece-42a1-8065-ac44a9b53dd0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about the new chat search UI and no opt-out, not a failed find."}
+{"id": "play_fce22807-39bd-4f47-8e85-e2d7fc6f89b0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos inaccessible or missing, not a search or browse difficulty."}
+{"id": "play_daabef91-add0-48f8-be27-5fb7998efe67", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search for 'dogs' no longer returns dog photos; the query is not understood."}
+{"id": "play_060b5d55-cf86-422c-b18b-154acf81307c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mainly about album combining and UI; no clear retrieval failure."}
+{"id": "play_fdfff101-1366-468b-81c4-32e4ecfc16f5", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search is slow, and they must scroll chronologically through 75,000 photos."}
+{"id": "play_887f9efc-67d3-4733-9e0e-d4b39c16947d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General navigation and organisation confusion, no specific finding failure."}
+{"id": "play_0ccd038d-336b-475d-aef2-0a3e4143b800", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Has to look around the UI to find a photo when in a hurry."}
+{"id": "play_2a55a878-2438-46e8-9840-85c1bc84bffa", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Wants regular search back and complains about emails; no failed find."}
+{"id": "play_7f180581-be85-4784-afab-87a582da2160", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "About finding and organising albums in the UI, not photos."}
+{"id": "play_00e5819c-f23f-40e0-a06f-76e562022cba", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organisation and UI confusion; no explicit difficulty finding a photo."}
+{"id": "play_d9d38232-263c-4f56-91ab-02e3cdfa4b3f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Deleted/missing photos and Gemini feature request, not locating existing photos"}
+{"id": "play_481590d2-94fe-422c-b7e1-a53c1f723ca1", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Lack of folder organisation makes finding a photo slow; browsing, not searching"}
+{"id": "play_7c6c3f9d-4732-4926-90ec-5d99b74a89b5", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says photo searching is cumbersome; no specific stage stated"}
+{"id": "play_75b28c4c-aadd-421c-920c-0607490a98d3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album organisation request; finding the album is not finding a photo"}
+{"id": "play_8f9deb84-6c14-4206-8da4-4fe092ace001", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Search within albums and search generally described as very bad"}
+{"id": "play_24ca1ad8-6ea5-4f20-82c0-fb119861faf8", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Map browsing to find photos fails; feature not working"}
+{"id": "play_959581ac-b686-4510-8d75-1c369a4d632c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Struggles finding old video by scrolling among many photos"}
+{"id": "play_81fa152d-3eca-4989-a477-40abf6a01398", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Can't enter multiple words in a search query"}
+{"id": "play_801c2911-35ac-438d-9046-c2b0e5bba157", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "App won't open; performance issue, not locating photos"}
+{"id": "play_18874898-f113-40b0-ba12-4e7b58e3b942", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searching 'monkeys' with a reasonable clue is refused or ignored"}
+{"id": "play_6af5ed18-78ed-46b8-9397-d40f0341256f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Memories/pet grouping complaint, not searching for a photo"}
+{"id": "play_d083da58-f0ac-447f-9054-a356096855a2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing, not a retrieval difficulty"}
+{"id": "play_4499e289-a3ca-4a24-8357-171d42f8bc75", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can never find photos; slow scrolling through the library"}
+{"id": "play_eb2e9847-ba8b-43c8-8325-6d2909128c4d", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Album organisation makes finding photos slow; browsing, not searching"}
+{"id": "play_0c1c3d8e-3741-462a-8720-1b98087107ea", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Says albums and search rarely help find what they want"}
+{"id": "play_85eed262-b4fc-4a05-9655-d8ef31eb41e4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos disappeared after naming faces; missing photos"}
+{"id": "play_b20814b5-73be-4986-936e-dd32761a11f7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Edited photos disappear; missing photos issue"}
+{"id": "play_aa7ab617-37fd-4a30-8e00-165d81f0a131", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Library setup/sync problem making photos and albums missing"}
+{"id": "play_0630377b-6f95-4450-8ea7-873ee5d2c130", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos vanishing and reappearing; mainly missing/sync and UI complaints"}
+{"id": "play_e18d09df-5f5e-4fe2-94c6-29963e7ea53b", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Reasonable keywords 'cast iron skillet' no longer return photos"}
+{"id": "play_2dfba93b-8862-487f-b8d5-b4f9119b1730", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album loading glitch, a performance/UI bug, not finding photos"}
+{"id": "play_e0e8b642-a386-42f2-bd92-b72e66d836ec", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding new photos is a hassle when browsing; no search attempted"}
+{"id": "play_2e0173fc-c86d-42bc-b401-e5543f8ba6ba", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Complaint about organisation and archiving, not explicitly about finding a photo"}
+{"id": "play_acde2bb7-d62f-4336-aef6-92aeb6274f81", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Album and edit organisation complaint; photos are findable under recently added"}
+{"id": "play_42d53873-e449-491b-a769-a16ae640942b", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Hard to find videos and photos across sections; browsing, not searching"}
+{"id": "play_dce6dee6-2c58-43af-ade6-e58a3ed861f4", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Photos scattered across places; must hunt manually, not using search"}
+{"id": "play_01bb51ab-86ce-4980-8e02-35791d8fe9f3", "is_retrieval": true, "failure_stage": "3_evaluation", "reason": "Search weak; album search shows only 10 results, hiding the target"}
+{"id": "play_83a3e7a3-3ed4-48be-b43f-80f6c6b96d28", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; request for cross-app search is a feature request"}
+{"id": "play_23a17ac8-c608-4d4a-a4d9-b38c8b3b9f23", "is_retrieval": true, "failure_stage": "1_expression", "reason": "Can't find loved ones' photos by name since face grouping removed"}
+{"id": "play_cc198315-a6a2-4708-97b3-a9aa36e211e1", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Search for 'numbers' returns photos without numbers; query misread"}
+{"id": "play_5db6ec95-9bfd-41dd-9b7d-9419b2d59ac8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague request; no stated search difficulty, may be missing or unsynced photos."}
+{"id": "play_3ebdede5-c77f-40c5-bad9-c40dd75e2c70", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pure praise; search worked with no difficulty."}
+{"id": "play_bce5e85c-6262-4a02-a66a-e7ccd88f3a57", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Wrong dates force scrolling thousands of photos instead of searching."}
+{"id": "play_aa7355f2-4aa5-455f-aff7-e5fd2f9b996e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; search worked with no difficulty"}
+{"id": "play_76786f84-b168-4f68-8cbd-1b6649ed78bd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only, no difficulty described"}
+{"id": "play_2d0f51ab-d997-485f-bf28-d005a0f3b152", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Vague comment about lost memories, no retrieval difficulty"}
+{"id": "play_b87931f4-afcb-4276-a3df-b93090ebe6d1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about recovering old memories"}
+{"id": "play_0fdcd322-335f-4a4f-b6b9-73b5ddc90136", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about backup recovery, no retrieval difficulty"}
+{"id": "play_f5554b8e-23ae-4219-ada9-99d2ce4c413f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Missing uploaded photos, not a search problem"}
+{"id": "play_140cd9d1-37b7-4c17-b346-ef486ea2755d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only"}
+{"id": "play_d9b01f6f-3da5-49f3-a653-2421d63d0e3d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about Memories resurfacing"}
+{"id": "play_70755e06-a849-4be3-bd74-3c486b522c03", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding photos is difficult; no search attempt described"}
+{"id": "play_3fadd922-99da-43ea-9786-80c2b5b6fef9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about recovering lost pictures"}
+{"id": "play_90d3b390-abe5-4eb9-8d0c-3c85da8fd0c3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos disappearing/missing, not a search difficulty"}
+{"id": "play_e8ff17d6-c924-4b06-a14d-0b18c187bd11", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only, mentions memories and editing"}
+{"id": "play_43e8767e-1388-4ec1-a440-3b5631435129", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise, no retrieval difficulty"}
+{"id": "play_c0bf1c6a-d918-4585-887f-e344c310b29c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos missing after update, not a retrieval failure"}
+{"id": "play_c8728d3a-ce4c-4600-bdd4-8296074846e3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos disappeared after hacking; missing, not search failure"}
+{"id": "play_22c2c1dc-b7a6-4e67-b449-7921ce1fb425", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pictures missing, not a retrieval difficulty"}
+{"id": "play_1e3402e2-321a-4171-bb9f-b9d2d45318e2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for finding old photos, no difficulty"}
+{"id": "play_788e1618-71e0-4281-aa54-112ad345b66d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pure praise of search and backup"}
+{"id": "play_555f43df-fabc-4a50-a77f-6702f98be57e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only, no difficulty"}
+{"id": "play_7e2b0cac-adf6-44f8-8058-75002d9ae716", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for easy locating, no difficulty"}
+{"id": "play_04a4edb0-a262-4a53-b731-cf513089ec77", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General failure to find wanted photo; no stage detail given."}
+{"id": "play_05b70a7a-2c27-46ef-bc29-58a4e8250e6f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise with no difficulty."}
+{"id": "play_2eda55b2-04c7-4bb8-a458-2bf6927ca8e5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about recovering photos after losing phone (backup)."}
+{"id": "play_54160980-95a1-4449-8444-a9ba545b5384", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "After update, can't find anything; search apparently fails."}
+{"id": "play_733844fa-ff09-4fd9-b670-b3e73b4db84b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about backup and access across phones."}
+{"id": "play_256d19d9-b762-4ef7-90b6-dae1422f2411", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; restored deleted photos easily, no difficulty."}
+{"id": "play_f1490e97-0db3-4f10-82c9-d500154fbcc8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; album organising complaint doesn't mention finding photos."}
+{"id": "play_01d5f7ce-d870-4653-95e5-1b5f09045588", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about recovering deleted data and backup."}
+{"id": "play_089a3b9a-71c4-4b55-946f-a7dc947c9f3a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Lost photos and face grouping issue, not finding."}
+{"id": "play_77197c86-d5c8-477b-a1f6-9d35b7ebc17e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos disappeared from device/folders; missing photos, not search."}
+{"id": "play_eef4a20a-b107-4fdc-a407-052480cc72fb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Printing defense and general praise; no retrieval difficulty."}
+{"id": "play_8735281e-8c8e-4b29-ac69-63ba95089121", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; searches succeeded with no difficulty."}
+{"id": "play_0343736f-5660-48bd-a4d6-cc768d4f4cfe", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pure praise, no retrieval difficulty."}
+{"id": "play_faf15a2d-2c42-45a4-97f3-58849a9bc303", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for easy finding; no difficulty."}
+{"id": "play_00329546-3e8f-4aae-9b6c-d37b81dd4905", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; search works 'for the most part', no failure described."}
+{"id": "play_216a20e4-759f-4e8d-8c77-22ac359704c8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only, no difficulty."}
+{"id": "play_ebfcb4bc-56c7-41e4-b1cb-b45c9aa3d61c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for face grouping; colorization request is unrelated."}
+{"id": "play_ed827987-0847-4a8e-9136-bc4fe0c2ae7c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos deleted/missing, not a retrieval difficulty."}
+{"id": "play_5c3de350-cfd3-4c16-8371-d80eeec19aa0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Organising, ads and broken photos; not about finding photos."}
+{"id": "play_5a916049-cffe-4dcf-8f18-dc55646b8376", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for organising and search; no difficulty."}
+{"id": "play_43dd9880-c0e9-4c8b-bf19-7a268f0ef57e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pure praise; search mentioned positively, no difficulty"}
+{"id": "play_24214998-2633-4fc8-8599-f3a0e206861f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise and storage pricing comment, no retrieval difficulty"}
+{"id": "play_c06b45ce-2c88-4092-9edf-cc724ae5752f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about storage, sharing, pricing; no retrieval difficulty"}
+{"id": "play_56fd6bf3-3097-487d-a820-cfc548e8cf80", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search working well; no difficulty"}
+{"id": "play_5f374ee7-3b6b-4e7a-893c-d0ec5d632a69", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Slowmo video bug and backup playback; finding praised"}
+{"id": "play_f7f5a5fa-1bd1-4bc6-bd6c-d6b5af3a1080", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Describes features positively; no retrieval difficulty"}
+{"id": "play_39027e2f-4b9d-4ac6-99ae-588f21046f10", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; date browsing works well"}
+{"id": "play_9403c2a6-baeb-4a4e-a4db-737d19ec06c4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Search praised; complaints concern offline access and transfer, not finding"}
+{"id": "play_336d61d7-f20c-487f-b0fd-a09f6bf7daf4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for features and backup; no retrieval difficulty"}
+{"id": "play_a3921639-f861-45bb-9dec-93bd0393100a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Successful search for license plate photo; praise, no failure"}
+{"id": "play_08704f49-d749-43a7-a803-3beabb19d25e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pure praise; search works easily, no difficulty."}
+{"id": "play_19f6cff6-1bd0-4243-beae-a3808feb64bb", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; no finding difficulty reported."}
+{"id": "play_9c354449-4210-4cbc-84e1-94bdd9cc3bd3", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for organisation and easy finding; no difficulty."}
+{"id": "play_25d88319-2bfa-4685-af16-8f9e3957c478", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Finding is hard due to trashed photos lingering in albums; no search attempted."}
+{"id": "play_67c6a681-0359-43be-b8c6-7ca1e3a66d00", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; search works well."}
+{"id": "play_97aa8071-5595-4b26-9df8-96facc366358", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; complaint is about deleting photos, not finding."}
+{"id": "play_d314f760-bc5d-4d13-806c-80bd3c962c3f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise about backup recovering photos; not retrieval difficulty."}
+{"id": "play_56050097-6e75-4b88-ab6a-37ead0724efc", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; complaint is about slow lighting editing."}
+{"id": "play_c78446e3-b577-4963-84ee-6310f0bf013c", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "Can't find photos when picking for Facebook; no search stage stated."}
+{"id": "play_7875d1e7-8420-48dc-b831-a050ad2a8db2", "is_retrieval": true, "failure_stage": "0_channel_avoidance", "reason": "General complaint that finding photos and albums is difficult."}
+{"id": "play_891e82d9-6d4e-41f0-b1e8-aa7d1a118030", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for successful search, no difficulty"}
+{"id": "play_ee20e2e9-a3bb-490a-9a90-5f77c5b6b3a2", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search, no difficulty stated"}
+{"id": "play_c5d642f2-dfb7-4653-9d81-88c33629faf1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search and storage, no difficulty"}
+{"id": "play_e234a304-0b13-4297-acb0-f1a3cee53e51", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise: finds photos quickly and easily"}
+{"id": "play_f5bc1b51-207b-4c34-98d1-78260f4a2aba", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Lock folder feature request; retrieval works for most photos"}
+{"id": "play_744d6d0d-a3f6-47bc-959a-83b979471c96", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for sync, sharing, and scrolling; no difficulty"}
+{"id": "play_1bfd4fad-8b05-477b-b18c-bfa8ef5bcc85", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; search for 'truck' worked accurately"}
+{"id": "play_782e61a3-4332-4cb1-ae84-99458cefa24e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search working well, no difficulty"}
+{"id": "play_36b313f0-63e1-470b-aff9-d51608ece415", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos deleted from phone and organization lost; not a search issue"}
+{"id": "play_36e071bd-865b-4d82-922c-018ef81ed648", "is_retrieval": true, "failure_stage": "2_understanding", "reason": "Searches are slow; no stage fits well, low confidence"}
+{"id": "play_ef6c51e8-3282-454b-ad81-fd8c9603f3e9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; finding photos quick and easy, no difficulty."}
+{"id": "play_617a8f49-e3ed-4173-9e87-774fdc04b12d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for improved app and search; no retrieval difficulty."}
+{"id": "play_b3706d75-bf23-4f99-bccf-fd5cc65c0e34", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Mostly praise; duplicate grouping request is organising, not finding difficulty."}
+{"id": "play_693b5a4c-6327-42ff-a795-3082a5c95430", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; search succeeded, no difficulty."}
+{"id": "play_ca96027f-2cd8-486a-b554-e0d00afb658d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search; album creation complaint is organising."}
+{"id": "play_0bb404a8-7032-4d1e-bb35-d27dea62fa99", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search and organising; no difficulty stated."}
+{"id": "play_712ab562-69be-49fc-9909-7745fc0b2c72", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; search by year works, no failure."}
+{"id": "play_8cbc48f8-9c21-46b2-96b7-97b42e0c29e7", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; no retrieval difficulty described."}
+{"id": "play_fc381ebc-8f9e-4fb6-b34f-b18031a2dbb4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise; no retrieval difficulty."}
+{"id": "play_d7db0344-7de4-48be-b5c0-80a6bceb1b0b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; album scrolling is about adding photos to albums, organising."}
+{"id": "play_bbe32115-af82-4011-ab09-fb78804c208f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search working; no difficulty stated."}
+{"id": "play_fa069ed5-3229-4af5-9e52-48123a1c58ae", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; search works well, no difficulty."}
+{"id": "play_3c378b36-0584-4ea5-9d6d-ecec36fbfd4f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; finding things is easy."}
+{"id": "play_4f9289b4-e093-4410-8437-00c865fb43d5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search; no retrieval difficulty."}
+{"id": "play_d0114462-c4c0-4c68-b5e2-86169942b244", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise; no difficulty finding photos."}
+{"id": "play_f8a4d494-0e85-4f67-8813-3e9c145a75d4", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for app, prints, face tagging; no difficulty."}
+{"id": "play_0725e3e9-f7d4-422e-9a9f-e58a9e85f11c", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; shots easy to find."}
+{"id": "play_48da9e8c-169a-4db9-8584-6da3298e10b0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for Assistant and backup; no retrieval difficulty."}
+{"id": "play_73cfe8b9-573c-40b7-ba7b-01a73da2f0fe", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for memories, collages, editing, face grouping."}
+{"id": "play_415dffae-ffd7-4117-949e-fd019960db5d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praises search; only complaint is slow uploading."}
+{"id": "play_a129d9bc-aae1-4cf7-94e1-b234d058f66b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; says search is easy; sync/default app request."}
+{"id": "play_702adf65-b3c7-4213-95fc-3e492d53cfca", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search working; no difficulty stated."}
+{"id": "play_5c137752-159d-447e-8e5f-ba4c0b154370", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise; no retrieval difficulty."}
+{"id": "play_3a49b2eb-7f4b-40a5-9825-f19962fe6968", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; face recognition makes finding easy."}
+{"id": "play_3cd8cdd0-4aaf-4f2a-85bd-f811df806b4a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; no difficulty."}
+{"id": "play_e4f6ed0a-cb6f-4663-8d9c-9843d791281f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Photos and screenshots not backed up; missing photos."}
+{"id": "play_db5de7ad-74f2-4574-b1dd-6916b0ba4aae", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search and update; no difficulty."}
+{"id": "play_1fbf39ba-fe1d-497b-8e2b-2013c6007650", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; finding photos described as easy."}
+{"id": "play_c92dd987-3992-4c6d-92f9-0e71d87a1763", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for organising and storage; no retrieval difficulty."}
+{"id": "play_2a14baab-4d67-499e-80bd-86dec1252d49", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; collage editing request is not retrieval."}
+{"id": "play_9639d9f4-acb5-4234-ae01-b09f2f862983", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search working instantly; no retrieval difficulty."}
+{"id": "play_6ce92fc3-512e-40d7-af68-4ba4960d778d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; search works easily, no difficulty."}
+{"id": "play_309bb69b-dbbc-43b0-aaa0-dd07b754978e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; face grouping makes searching easier, no difficulty."}
+{"id": "play_55a130ce-02b5-41c9-bac7-7958e6acd0bf", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; searches succeeded immediately, no failure."}
+{"id": "play_a2707fe0-b382-44e1-86fe-c1f04c81f52a", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Pure praise for AI search feature."}
+{"id": "play_66481954-49da-4e63-bd63-568423911964", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Albums missing/sync issue; hypothetical finding difficulty only."}
+{"id": "play_ed3235c6-cd04-41d0-8f05-25aded4ee0d0", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Emotional praise about memories; no retrieval."}
+{"id": "play_32974d22-71bb-4a64-872c-d7bfe84f2b5d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Folder loss and upload errors; organising/backup complaint, not finding."}
+{"id": "play_ac3647af-dfe4-497e-ad80-9fd5f814de4b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Comparison praise of features and price; no retrieval."}
+{"id": "play_ee1902bb-a256-4f7d-abab-f378cbd35bec", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for albums, sharing, printing; no retrieval difficulty."}
+{"id": "play_2922f639-cc3b-48d5-a1e6-09729913283b", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise; no retrieval difficulty."}
+{"id": "play_c0fdd1a0-6f46-42b7-9175-b996287635e8", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for natural language search; no difficulty."}
+{"id": "play_7871e7e1-bb73-422f-91a4-5f4fbc7b60dd", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Backup and organising complaint; no finding difficulty stated."}
+{"id": "play_4045c7a0-e091-4d7d-976e-d3edace39222", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Albums not showing, sales pitches; not about finding a photo."}
+{"id": "play_4885ce70-c63f-4d92-b8ba-ce1b0063feda", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; no difficulty."}
+{"id": "play_32d4175e-1720-4a97-a668-818d071c1fbf", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for easy finding and Memories; no difficulty."}
+{"id": "play_ac2150fe-67b0-4063-a9be-b54b730f410f", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search; no difficulty."}
+{"id": "play_e7e75dcb-e3cc-4cc1-bbd2-def57bde0970", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Memories praise and organising feature request; no finding difficulty."}
+{"id": "play_355040d2-2282-4c71-b76f-a4cd4efea160", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise plus editing/duplicate and ordering feature requests."}
+{"id": "play_e15ce915-1e3b-4e12-b913-587d9b5b84d5", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise, collages, storage pricing; no retrieval difficulty."}
+{"id": "play_938426df-32c2-4b88-b777-296f379923b6", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise; recovered photos on another device, no search difficulty"}
+{"id": "play_602a08ac-ca4b-47cf-9807-fad25f26c83d", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for quick finding; no difficulty stated"}
+{"id": "play_3c4aab6f-e3b7-4d64-a2c0-4fd956678408", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Recovered photos via backup; album ordering is a UI request"}
+{"id": "play_757adae2-2b9b-46fa-983e-42837e6cc214", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; recovery of lost photos, no retrieval difficulty"}
+{"id": "play_253d8784-8822-465c-b8e9-c1deac3df737", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for organising and searchability; no failure described"}
+{"id": "play_248a0615-2ce8-4354-aad6-6ba9890817c9", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search working well; no difficulty"}
+{"id": "play_6ef12d0f-02ad-412f-9c95-14f4b3202446", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for categorising and Memories; no difficulty"}
+{"id": "play_1e0d793e-5c02-4be6-87eb-1c71fbcdbf96", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search options and features; no difficulty"}
+{"id": "play_3ebaecaa-7fb4-48b8-9deb-355d2d33ba36", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise of gallery, search and backup; no difficulty"}
+{"id": "play_229a02c7-ab9b-4dcb-9740-3cd5a027d87e", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise for search; Instagram sharing wish is unrelated"}
+{"id": "play_d04d4a8f-7d2f-4d19-ba9d-4847921430f1", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise only; finding is easier, no difficulty described"}
+{"id": "play_84483d57-4439-4b50-b21c-04af6661eb68", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "Praise; always able to locate photos, no difficulty"}
+{"id": "play_9d81a88b-34f3-4fe6-9e28-eac779300f98", "is_retrieval": false, "failure_stage": "not_retrieval", "reason": "General praise; no retrieval difficulty stated"}

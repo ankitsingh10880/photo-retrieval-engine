@@ -80,7 +80,7 @@ with tabs[0]:
 | **1 · Collect** | Play Store reviews (India + US), 4,667 in this dataset. The pipeline can also take Reddit / Help Community threads, uploads or pasted text, but the current dataset is Play Store only. | `google-play-scraper`, manual thread capture |
 | **2 · Filter** | Keyword pass, then the LLM keeps only items about *finding* an existing photo (drops backup, deletion, storage, pricing noise) | regex + Claude Haiku |
 | **3 · Label** | Each item coded against a fixed schema: photo type, cues the user still remembers, cues forgotten, channel used, **failure stage**, verbatim query, workaround, severity | Claude Haiku, batched JSON |
-| **4 · Re-check** | Every item the first labeller (Claude Haiku) marked as retrieval (923) is re-labelled by Claude Sonnet with a stricter prompt and 10 few-shot examples written outside the gold set; retrieval items fall from 788 to 458 | LLM re-check |
+| **4 · Re-check** | Every item the first labeller (Claude Haiku) marked as retrieval (923) is re-labelled by Claude Sonnet with a stricter prompt and 10 few-shot examples written outside the gold set; retrieval items fall from 923 to 458 | LLM re-check |
 | **5 · Validate** | 40 items sampled across the first labeller's stages (25 it marked retrieval, 15 other) and hand-labelled by one person. Agreement after the re-check: is-retrieval 77.5% (was 67.5%), failure stage 75.0% (was 57.5%); over-inclusions 13 → 6. Improved, not validated (reference bar 85%); single labeller | human gold set |
 | **6 · Score** | Cue × failure-stage matrix; opportunity = share × severity × coverage gap | pandas |
 | **7 · Ask** | Questions answered only from retrieved items, with item ids cited | TF-IDF retrieval + Claude Sonnet |
@@ -191,7 +191,7 @@ with tabs[2]:
             s0 = vret[stage.eq("0_channel_avoidance") & reason.ne("")]
             if not s0.empty:
                 st.subheader("Why people didn't search")
-                st.caption("Second-pass coding of items first labelled 'didn't search'. "
+                st.caption("Second-pass coding of items labelled 'didn't search' after the Sonnet re-check. "
                            "'Searched and failed' items were moved to stage 2.")
                 r_ct = s0["stage0_reason"].str.replace("_", " ").value_counts().reset_index()
                 r_ct.columns = ["Reason", "Items"]
