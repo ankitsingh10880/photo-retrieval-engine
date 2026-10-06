@@ -65,8 +65,7 @@ if not df.empty:
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Items analysed", f"{len(df):,}")
     c2.metric("About finding a photo", f"{len(ret):,}")
-    srcs = sorted(df["source"].str.replace(r"_(in|us)$", "", regex=True).str.replace("_", " ").str.title().unique())
-    c3.metric("Source", ", ".join(srcs))
+    c3.metric("Source (India + US)", "Play Store reviews")
     top = ret["failure_stage"].value_counts().idxmax() if not ret.empty else "—"
     c4.metric("Top break point", pl.STAGE_LABELS.get(top, top).split(" · ")[-1])
 
