@@ -86,7 +86,7 @@ if not df.empty:
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("Items analysed", f"{len(df):,}")
     c2.metric("About finding a photo", f"{len(ret):,}")
-    c3.metric("Source (India + US)", "Play Store reviews")
+    c3.metric("Source (global English)", "Play Store reviews")
     top = ret["failure_stage"].value_counts().idxmax() if not ret.empty else "—"
     share = f" · {ret['failure_stage'].eq(top).sum() / len(ret):.0%}" if not ret.empty else ""
     c4.metric("Biggest failure", pl.STAGE_LABELS.get(top, top).split(" · ")[-1] + share)
@@ -99,7 +99,7 @@ with tabs[0]:
     st.markdown("""
 | Step | What happens | Tooling |
 |---|---|---|
-| **1 · Collect** | Play Store reviews (India + US), 4,667 in this dataset. The pipeline can also take Reddit / Help Community threads, uploads or pasted text, but the current dataset is Play Store only. | `google-play-scraper`, manual thread capture |
+| **1 · Collect** | Play Store reviews (global English; the store returns the same reviews for every country setting), 4,667 in this dataset. The pipeline can also take Reddit / Help Community threads, uploads or pasted text, but the current dataset is Play Store only. | `google-play-scraper`, manual thread capture |
 | **2 · Filter** | Keyword pass, then the LLM keeps only items about *finding* an existing photo (drops backup, deletion, storage, pricing noise) | regex + Claude Haiku |
 | **3 · Label** | Each item coded against a fixed schema: photo type, cues the user still remembers, cues forgotten, channel used, **failure stage**, verbatim query, workaround, severity | Claude Haiku, batched JSON |
 | **4 · Re-check** | Every item the first labeller (Claude Haiku) marked as retrieval (923) is re-labelled by Claude Sonnet with a stricter prompt and 10 few-shot examples written outside the gold set; retrieval items fall from 923 to 458 | LLM re-check |
@@ -181,7 +181,7 @@ with tabs[1]:
                       f"Runs left this session: {max(MAX_LIVE_RUNS - used, 0)} of {MAX_LIVE_RUNS}."
                       + (" Demo limit reached for this session to keep API costs bounded." if used >= MAX_LIVE_RUNS else "")
                       + f" Daily limit across all visitors: {GLOBAL_LIVE_PER_DAY} runs "
-                      f"({max(GLOBAL_LIVE_PER_DAY - usage()['live'], 0)} left today). About $0.01 per run.")
+                      f"({max(GLOBAL_LIVE_PER_DAY - usage()['live'], 0)} left today). Up to about $0.05 per run (about $0.001 per labelled item).")
     if usage()["live"] >= GLOBAL_LIVE_PER_DAY:
         st.warning("Daily demo limit reached to keep API costs bounded. Try again tomorrow.")
 
