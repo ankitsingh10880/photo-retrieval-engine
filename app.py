@@ -186,7 +186,7 @@ with tabs[2]:
         st.plotly_chart(fig)
 
         if "stage0_reason" in vret:
-            stage = vret["stage_v1"] if "stage_v1" in vret else vret["failure_stage"]
+            stage = vret["failure_stage"]
             reason = vret["stage0_reason"].fillna("").astype(str)
             s0 = vret[stage.eq("0_channel_avoidance") & reason.ne("")]
             if not s0.empty:
