@@ -77,12 +77,13 @@ with tabs[0]:
     st.markdown("""
 | Step | What happens | Tooling |
 |---|---|---|
-| **1 · Collect** | Play Store reviews (India + US), Reddit and Google Photos Help Community threads, plus anything you upload or paste | `google-play-scraper`, manual thread capture |
+| **1 · Collect** | Play Store reviews (India + US), 4,667 in this dataset. The pipeline can also take Reddit / Help Community threads, uploads or pasted text, but the current dataset is Play Store only. | `google-play-scraper`, manual thread capture |
 | **2 · Filter** | Keyword pass, then the LLM keeps only items about *finding* an existing photo (drops backup, deletion, storage, pricing noise) | regex + Claude Haiku |
 | **3 · Label** | Each item coded against a fixed schema: photo type, cues the user still remembers, cues forgotten, channel used, **failure stage**, verbatim query, workaround, severity | Claude Haiku, batched JSON |
-| **4 · Validate** | 40 random items hand-labelled; per-field agreement reported in *Explorer & method* | human gold set |
-| **5 · Score** | Cue × failure-stage matrix; opportunity = share × severity × coverage gap | pandas |
-| **6 · Ask** | Questions answered only from retrieved items, with item ids cited | TF-IDF retrieval + Claude Sonnet |
+| **4 · Re-check** | Every item the first labeller (Claude Haiku) marked as retrieval (923) is re-labelled by Claude Sonnet with a stricter prompt and 10 few-shot examples written outside the gold set; retrieval items fall from 788 to 458 | LLM re-check |
+| **5 · Validate** | 40 items sampled across the first labeller's stages (25 it marked retrieval, 15 other) and hand-labelled by one person. Agreement after the re-check: is-retrieval 77.5% (was 67.5%), failure stage 75.0% (was 57.5%); over-inclusions 13 → 6. Improved, not validated (reference bar 85%); single labeller | human gold set |
+| **6 · Score** | Cue × failure-stage matrix; opportunity = share × severity × coverage gap | pandas |
+| **7 · Ask** | Questions answered only from retrieved items, with item ids cited | TF-IDF retrieval + Claude Sonnet |
 """)
     st.subheader("The failure stages the engine codes against")
     st.markdown("""
@@ -163,7 +164,7 @@ with tabs[2]:
                           format_func=lambda x: {"All": "All", "content_anchored": "Content-anchored (what was in it)",
                                                  "event_anchored": "Event-anchored (trip / occasion)"}[x])
         period = st.radio("Period", ["All years", "2024 onwards (AI search era)"], horizontal=True,
-                          help="Play reviews carry dates; forum threads are undated and appear in both views.")
+                          help="Play reviews carry dates. The current dataset is Play Store only; undated items such as pasted Reddit / Help Community threads would appear in both views.")
         view = df if anchor == "All" else df[df["cue_anchor"].eq(anchor)]
         if period != "All years":
             yr = pd.to_datetime(view["date"], errors="coerce").dt.year
@@ -182,7 +183,7 @@ with tabs[2]:
                           hovertemplate="%{y}: %{x} items (%{text}%)<extra></extra>")
         fig.update_layout(height=300, yaxis=dict(autorange="reversed", title=None),
                           xaxis=dict(showgrid=False), margin=dict(l=0, r=40, t=10, b=10))
-        st.plotly_chart(fig, width="stretch")
+        st.plotly_chart(fig)
 
         if "stage0_reason" in vret:
             stage = vret["stage_v1"] if "stage_v1" in vret else vret["failure_stage"]
@@ -198,7 +199,7 @@ with tabs[2]:
                 rfig.update_traces(hovertemplate="%{y}: %{x} items<extra></extra>")
                 rfig.update_layout(height=260, yaxis=dict(autorange="reversed", title=None),
                                    xaxis=dict(showgrid=False), margin=dict(l=0, r=40, t=10, b=10))
-                st.plotly_chart(rfig, width="stretch")
+                st.plotly_chart(rfig)
 
         st.subheader("What users remember × where it breaks")
         mat = pl.cue_stage_matrix(view)
@@ -207,7 +208,7 @@ with tabs[2]:
             hm = px.imshow(mat, text_auto=True, aspect="auto", color_continuous_scale=SEQ,
                            labels=dict(x="Failure stage", y="Cue the user still remembers", color="Items"))
             hm.update_layout(height=420, margin=dict(l=0, r=0, t=10, b=10))
-            st.plotly_chart(hm, width="stretch")
+            st.plotly_chart(hm)
 
         st.subheader("Ranked opportunities")
         st.caption("Score = share of retrieval items × mean severity × coverage gap (how poorly the cue is served today).")
@@ -282,7 +283,7 @@ with tabs[4]:
         st.caption("Gold-set agreement will appear here once the hand-labelled check is complete.")
     st.subheader("Limitations")
     st.markdown("""
-- Reddit blocks automated collection, so threads were captured manually; live Reddit pulls are not possible.
+- The current dataset is Play Store reviews only. The pipeline can also take Reddit / Help Community threads (pasted or uploaded), but Reddit blocks automated collection, so live Reddit pulls are not possible.
 - Reviews skew to complaints; the engine measures *where* retrieval fails, not *how often* it fails across all users.
 - English-language feedback only.
 """)

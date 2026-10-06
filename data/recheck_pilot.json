@@ -1,0 +1,90 @@
+{
+  "n": 40,
+  "table": [
+    {
+      "labeller": "Haiku (current)",
+      "is_retrieval_agreement_pct": 67.5,
+      "failure_stage_agreement_pct": 57.5,
+      "over_includes": 13,
+      "under_includes": 0
+    },
+    {
+      "labeller": "Sonnet alone",
+      "is_retrieval_agreement_pct": 77.5,
+      "failure_stage_agreement_pct": 75.0,
+      "over_includes": 6,
+      "under_includes": 3
+    },
+    {
+      "labeller": "Pipeline (Haiku, then Sonnet re-check)",
+      "is_retrieval_agreement_pct": 77.5,
+      "failure_stage_agreement_pct": 75.0,
+      "over_includes": 6,
+      "under_includes": 3
+    }
+  ],
+  "verdict": "GO, but report as an improvement over Haiku, not as validated",
+  "disagreements": [
+    {
+      "id": "play_9c16645e-1ec8-4d77-b0fe-e0bf070c9259",
+      "gold": "true/3_evaluation",
+      "pipeline": "true/0_channel_avoidance",
+      "sonnet_reason": "Hard to quickly find recent photos; browsing mixed device folders."
+    },
+    {
+      "id": "play_b1aba678-71e5-4a53-820b-d3995f9f686c",
+      "gold": "false/not_retrieval",
+      "pipeline": "true/0_channel_avoidance",
+      "sonnet_reason": "Places list hard to scroll to locate photos by city."
+    },
+    {
+      "id": "play_16356980-6461-481d-a9b8-580ec9d4fad9",
+      "gold": "false/not_retrieval",
+      "pipeline": "true/2_understanding",
+      "sonnet_reason": "General complaint that search has become worse; no more detail."
+    },
+    {
+      "id": "play_d5113a79-5fac-4628-9443-d9ea4c4e4351",
+      "gold": "true/1_expression",
+      "pipeline": "false/not_retrieval",
+      "sonnet_reason": "Mostly praise plus a feature request; no stated failed retrieval."
+    },
+    {
+      "id": "play_2ff6e477-324e-47c2-827f-9eb8ee05c0d2",
+      "gold": "true/2_understanding",
+      "pipeline": "false/not_retrieval",
+      "sonnet_reason": "Face-labeling error bug; not a described failed photo search."
+    },
+    {
+      "id": "play_103baab9-1172-4b20-884e-a33af6e72f18",
+      "gold": "false/not_retrieval",
+      "pipeline": "true/2_understanding",
+      "sonnet_reason": "Search no longer handles date queries; search got worse."
+    },
+    {
+      "id": "play_50e9dea8-8eb2-46c3-9b13-d11867e70c06",
+      "gold": "true/3_evaluation",
+      "pipeline": "false/not_retrieval",
+      "sonnet_reason": "Photos missing or jumbled; sync and ads complaint, not search failure."
+    },
+    {
+      "id": "play_86cedd80-34a6-4cd4-a734-0bff504f62ac",
+      "gold": "false/not_retrieval",
+      "pipeline": "true/0_channel_avoidance",
+      "sonnet_reason": "General complaint that search refuses and doesn't work"
+    },
+    {
+      "id": "play_54d0dac8-2075-4def-afe2-1cb1fa952836",
+      "gold": "false/not_retrieval",
+      "pipeline": "true/0_channel_avoidance",
+      "sonnet_reason": "Can't find anything after folder locations change; browsing, not searching"
+    },
+    {
+      "id": "play_8daca402-2e5b-46bb-9ecc-3c5211607ac2",
+      "gold": "false/not_retrieval",
+      "pipeline": "true/0_channel_avoidance",
+      "sonnet_reason": "Can't locate photos and videos put in private folder"
+    }
+  ],
+  "model": "claude-sonnet-5-5"
+}

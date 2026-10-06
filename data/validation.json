@@ -1,0 +1,30 @@
+{
+  "fields": [
+    {
+      "field": "is_retrieval",
+      "items_checked": 40,
+      "agreement_pct": 77.5
+    },
+    {
+      "field": "photo_type",
+      "items_checked": 14,
+      "agreement_pct": 42.9
+    },
+    {
+      "field": "cue_anchor",
+      "items_checked": 14,
+      "agreement_pct": 57.1
+    },
+    {
+      "field": "channel",
+      "items_checked": 14,
+      "agreement_pct": 78.6
+    },
+    {
+      "field": "failure_stage",
+      "items_checked": 40,
+      "agreement_pct": 75.0
+    }
+  ],
+  "note": "Agreement between the final labels (Claude Haiku, then a Claude Sonnet re-check of every item Haiku marked retrieval) and 40 items hand-labelled by one person, sampled across Haiku's stages (25 it marked retrieval, 15 other)."
+}
