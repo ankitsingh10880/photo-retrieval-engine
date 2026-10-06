@@ -192,11 +192,14 @@ with tabs[2]:
             if not s0.empty:
                 st.subheader("Why people didn't search")
                 st.caption("Second-pass coding of items labelled 'didn't search' after the Sonnet re-check. "
-                           "'Searched and failed' items were moved to stage 2.")
+                           "'Searched and failed' items were moved to stage 2." + f" n = {len(s0)} items.")
                 r_ct = s0["stage0_reason"].str.replace("_", " ").value_counts().reset_index()
                 r_ct.columns = ["Reason", "Items"]
-                rfig = px.bar(r_ct, x="Items", y="Reason", orientation="h", color_discrete_sequence=[BAR])
-                rfig.update_traces(hovertemplate="%{y}: %{x} items<extra></extra>")
+                r_ct["Share"] = (r_ct["Items"] / r_ct["Items"].sum() * 100).round(1)
+                rfig = px.bar(r_ct, x="Items", y="Reason", orientation="h", text="Share",
+                              color_discrete_sequence=[BAR])
+                rfig.update_traces(texttemplate="%{text}%", textposition="outside",
+                                   hovertemplate="%{y}: %{x} items (%{text}%)<extra></extra>")
                 rfig.update_layout(height=260, yaxis=dict(autorange="reversed", title=None),
                                    xaxis=dict(showgrid=False), margin=dict(l=0, r=40, t=10, b=10))
                 st.plotly_chart(rfig)
